@@ -1,0 +1,515 @@
+{
+  "version": 1,
+  "samples": [
+    {
+      "image": "team-video-000240.jpg",
+      "group": "video-f56a6964e40f07d99198be3ae3abdaee909ef044d06febe7fbfcc30c93c5e906",
+      "reviewed": true,
+      "boxes": [
+        [
+          292,
+          225,
+          415,
+          448
+        ],
+        [
+          327,
+          113,
+          386,
+          201
+        ]
+      ],
+      "roles": [
+        "self",
+        "teammate"
+      ],
+      "roles_reviewed": true,
+      "user_confirmed": true,
+      "user_review_status": "confirmed",
+      "assistant_reviewed": true,
+      "identity_evidence": "人物1与第三人称镜头连续保持操控角色关系；人物2在空投旁，有对应的黄色1号标记，结合19秒同一段上下文判断为队友。车顶或车内位置标记不补成人体。",
+      "source_time_seconds": 8.1,
+      "requested_second": 8,
+      "source_frame": 240,
+      "source_video_hash": "f56a6964e40f07d99198be3ae3abdaee909ef044d06febe7fbfcc30c93c5e906",
+      "user_review_number": 1,
+      "source_game_crop": [
+        85,
+        0,
+        876,
+        448
+      ],
+      "user_review_note": "",
+      "reviewer": "user_review_sheet",
+      "confirmation_record_sha256": "baa61c098e124db90e3c1baa2123070895900f88a71120c9d82d7bed6c9d7c0c",
+      "identity_evidence_before_user_confirmation": "人物1与第三人称镜头连续保持操控角色关系；人物2在空投旁，有对应的黄色1号标记，结合19秒同一段上下文判断为队友。车顶或车内位置标记不补成人体。"
+    },
+    {
+      "image": "team-video-000569.jpg",
+      "group": "video-f56a6964e40f07d99198be3ae3abdaee909ef044d06febe7fbfcc30c93c5e906",
+      "reviewed": true,
+      "boxes": [
+        [
+          288,
+          228,
+          419,
+          448
+        ],
+        [
+          309,
+          68,
+          352,
+          181
+        ]
+      ],
+      "roles": [
+        "self",
+        "teammate"
+      ],
+      "roles_reviewed": true,
+      "user_confirmed": true,
+      "user_review_status": "confirmed",
+      "assistant_reviewed": true,
+      "identity_evidence": "人物1为连续第三人称跟随的自身；人物2头顶黄色1号明确对应可见白衣人物，可与左下黄色1号队伍信息核对。两者都不应在最终画框视图显示。",
+      "source_time_seconds": 19.067,
+      "requested_second": 19,
+      "source_frame": 569,
+      "source_video_hash": "f56a6964e40f07d99198be3ae3abdaee909ef044d06febe7fbfcc30c93c5e906",
+      "user_review_number": 2,
+      "source_game_crop": [
+        85,
+        0,
+        876,
+        448
+      ],
+      "user_review_note": "",
+      "reviewer": "user_review_sheet",
+      "confirmation_record_sha256": "baa61c098e124db90e3c1baa2123070895900f88a71120c9d82d7bed6c9d7c0c",
+      "identity_evidence_before_user_confirmation": "人物1为连续第三人称跟随的自身；人物2头顶黄色1号明确对应可见白衣人物，可与左下黄色1号队伍信息核对。两者都不应在最终画框视图显示。"
+    },
+    {
+      "image": "team-video-000959.jpg",
+      "group": "video-f56a6964e40f07d99198be3ae3abdaee909ef044d06febe7fbfcc30c93c5e906",
+      "reviewed": true,
+      "boxes": [
+        [
+          254,
+          227,
+          414,
+          448
+        ],
+        [
+          555,
+          169,
+          572,
+          208
+        ],
+        [
+          451,
+          141,
+          461,
+          162
+        ]
+      ],
+      "roles": [
+        "self",
+        "teammate",
+        "teammate"
+      ],
+      "roles_reviewed": true,
+      "user_confirmed": true,
+      "user_review_status": "confirmed",
+      "assistant_reviewed": true,
+      "identity_evidence": "用户已确认：人物1为自身，人物2、人物3均为队友。远处队友在单帧中队标难以读清，不能仅凭缺少清晰标记改判对手；身份以用户复核为准。",
+      "source_time_seconds": 32.1,
+      "requested_second": 32,
+      "source_frame": 959,
+      "source_video_hash": "f56a6964e40f07d99198be3ae3abdaee909ef044d06febe7fbfcc30c93c5e906",
+      "user_review_number": 3,
+      "source_game_crop": [
+        85,
+        0,
+        876,
+        448
+      ],
+      "user_review_note": "",
+      "reviewer": "user_review_sheet",
+      "confirmation_record_sha256": "baa61c098e124db90e3c1baa2123070895900f88a71120c9d82d7bed6c9d7c0c",
+      "identity_evidence_before_user_confirmation": "人物1为自身；人物2头顶蓝色3号明确对应当前人物；人物3为更远处实际可见的人形，当前压缩画面没有读清与其对应的队标或昵称，暂保留unknown，请核对31–34秒上下文。"
+    },
+    {
+      "image": "team-video-000989.jpg",
+      "group": "video-f56a6964e40f07d99198be3ae3abdaee909ef044d06febe7fbfcc30c93c5e906",
+      "reviewed": true,
+      "boxes": [
+        [
+          263,
+          228,
+          414,
+          448
+        ],
+        [
+          648,
+          220,
+          703,
+          275
+        ]
+      ],
+      "roles": [
+        "self",
+        "teammate"
+      ],
+      "roles_reviewed": true,
+      "user_confirmed": true,
+      "user_review_status": "confirmed",
+      "assistant_reviewed": true,
+      "identity_evidence": "人物1为自身；人物2在岩石右侧，蓝色3号标记与身体对应，32–39秒可持续核对。只框可见部分，不补岩石挡住的身体。",
+      "source_time_seconds": 33.1,
+      "requested_second": 33,
+      "source_frame": 989,
+      "source_video_hash": "f56a6964e40f07d99198be3ae3abdaee909ef044d06febe7fbfcc30c93c5e906",
+      "user_review_number": 4,
+      "source_game_crop": [
+        85,
+        0,
+        876,
+        448
+      ],
+      "user_review_note": "",
+      "reviewer": "user_review_sheet",
+      "confirmation_record_sha256": "baa61c098e124db90e3c1baa2123070895900f88a71120c9d82d7bed6c9d7c0c",
+      "identity_evidence_before_user_confirmation": "人物1为自身；人物2在岩石右侧，蓝色3号标记与身体对应，32–39秒可持续核对。只框可见部分，不补岩石挡住的身体。"
+    },
+    {
+      "image": "team-video-001169.jpg",
+      "group": "video-f56a6964e40f07d99198be3ae3abdaee909ef044d06febe7fbfcc30c93c5e906",
+      "reviewed": true,
+      "boxes": [
+        [
+          284,
+          234,
+          418,
+          448
+        ],
+        [
+          600,
+          46,
+          637,
+          112
+        ]
+      ],
+      "roles": [
+        "self",
+        "teammate"
+      ],
+      "roles_reviewed": true,
+      "user_confirmed": true,
+      "user_review_status": "confirmed",
+      "assistant_reviewed": true,
+      "identity_evidence": "人物1为自身；山坡岩石上的人物2头顶清楚显示蓝色3号，且与前后人物移动对应，为队友。外伸枪械及人物脚下阴影不作为身体范围。",
+      "source_time_seconds": 39.1,
+      "requested_second": 39,
+      "source_frame": 1169,
+      "source_video_hash": "f56a6964e40f07d99198be3ae3abdaee909ef044d06febe7fbfcc30c93c5e906",
+      "user_review_number": 5,
+      "source_game_crop": [
+        85,
+        0,
+        876,
+        448
+      ],
+      "user_review_note": "",
+      "reviewer": "user_review_sheet",
+      "confirmation_record_sha256": "baa61c098e124db90e3c1baa2123070895900f88a71120c9d82d7bed6c9d7c0c",
+      "identity_evidence_before_user_confirmation": "人物1为自身；山坡岩石上的人物2头顶清楚显示蓝色3号，且与前后人物移动对应，为队友。外伸枪械及人物脚下阴影不作为身体范围。"
+    },
+    {
+      "image": "team-video-000180.jpg",
+      "group": "video-f56a6964e40f07d99198be3ae3abdaee909ef044d06febe7fbfcc30c93c5e906",
+      "reviewed": true,
+      "boxes": [],
+      "roles": [],
+      "roles_reviewed": true,
+      "user_confirmed": true,
+      "user_review_status": "confirmed",
+      "assistant_reviewed": true,
+      "identity_evidence": "背包/补给箱界面中央是装备预览立绘，不作为游戏场景人物标注；不把旁边武器图标标成人体。该图需你确认是否仍有可见场景人物漏框。",
+      "source_time_seconds": 6.1,
+      "requested_second": 6,
+      "source_frame": 180,
+      "source_video_hash": "f56a6964e40f07d99198be3ae3abdaee909ef044d06febe7fbfcc30c93c5e906",
+      "user_review_number": 6,
+      "source_game_crop": [
+        85,
+        0,
+        876,
+        448
+      ],
+      "user_review_note": "",
+      "reviewer": "user_review_sheet",
+      "confirmation_record_sha256": "baa61c098e124db90e3c1baa2123070895900f88a71120c9d82d7bed6c9d7c0c",
+      "identity_evidence_before_user_confirmation": "背包/补给箱界面中央是装备预览立绘，不作为游戏场景人物标注；不把旁边武器图标标成人体。该图需你确认是否仍有可见场景人物漏框。"
+    },
+    {
+      "image": "team-video-000390.jpg",
+      "group": "video-f56a6964e40f07d99198be3ae3abdaee909ef044d06febe7fbfcc30c93c5e906",
+      "reviewed": true,
+      "boxes": [],
+      "roles": [],
+      "roles_reviewed": true,
+      "user_confirmed": true,
+      "user_review_status": "confirmed",
+      "assistant_reviewed": true,
+      "identity_evidence": "全屏地图界面；队伍编号、地图图标与标点均不是可见人体，不据此推测人物范围。",
+      "source_time_seconds": 13.1,
+      "requested_second": 13,
+      "source_frame": 390,
+      "source_video_hash": "f56a6964e40f07d99198be3ae3abdaee909ef044d06febe7fbfcc30c93c5e906",
+      "user_review_number": 7,
+      "source_game_crop": [
+        85,
+        0,
+        876,
+        448
+      ],
+      "user_review_note": "",
+      "reviewer": "user_review_sheet",
+      "confirmation_record_sha256": "baa61c098e124db90e3c1baa2123070895900f88a71120c9d82d7bed6c9d7c0c",
+      "identity_evidence_before_user_confirmation": "全屏地图界面；队伍编号、地图图标与标点均不是可见人体，不据此推测人物范围。"
+    },
+    {
+      "image": "team-video-001648.jpg",
+      "group": "video-f56a6964e40f07d99198be3ae3abdaee909ef044d06febe7fbfcc30c93c5e906",
+      "reviewed": true,
+      "boxes": [],
+      "roles": [],
+      "roles_reviewed": true,
+      "user_confirmed": true,
+      "user_review_status": "confirmed",
+      "assistant_reviewed": true,
+      "identity_evidence": "第一人称画面只见自身武器与孤立手臂，按规则排除；本帧未提出远处人物框，请核对是否有漏框。",
+      "source_time_seconds": 55.1,
+      "requested_second": 55,
+      "source_frame": 1648,
+      "source_video_hash": "f56a6964e40f07d99198be3ae3abdaee909ef044d06febe7fbfcc30c93c5e906",
+      "user_review_number": 8,
+      "source_game_crop": [
+        85,
+        0,
+        876,
+        448
+      ],
+      "user_review_note": "",
+      "reviewer": "user_review_sheet",
+      "confirmation_record_sha256": "baa61c098e124db90e3c1baa2123070895900f88a71120c9d82d7bed6c9d7c0c",
+      "identity_evidence_before_user_confirmation": "第一人称画面只见自身武器与孤立手臂，按规则排除；本帧未提出远处人物框，请核对是否有漏框。"
+    },
+    {
+      "image": "team-video-002008.jpg",
+      "group": "video-f56a6964e40f07d99198be3ae3abdaee909ef044d06febe7fbfcc30c93c5e906",
+      "reviewed": true,
+      "boxes": [
+        [
+          394,
+          224,
+          403,
+          237
+        ]
+      ],
+      "roles": [
+        "opponent"
+      ],
+      "roles_reviewed": true,
+      "user_confirmed": true,
+      "user_review_status": "confirmed",
+      "assistant_reviewed": true,
+      "identity_evidence": "开镜后草地上极小的人体轮廓，66.6–69.4秒上下文中有移动及同一目标交战。可排除自身；未见对应的队标加昵称，按你对本素材的约定判断为对手候选。身体仅约9×13像素，范围尤其需复核；不把准星或后续蓝色命中特效纳入身体。",
+      "source_time_seconds": 67.1,
+      "requested_second": 67,
+      "source_frame": 2008,
+      "source_video_hash": "f56a6964e40f07d99198be3ae3abdaee909ef044d06febe7fbfcc30c93c5e906",
+      "user_review_number": 9,
+      "source_game_crop": [
+        85,
+        0,
+        876,
+        448
+      ],
+      "user_review_note": "",
+      "reviewer": "user_review_sheet",
+      "confirmation_record_sha256": "baa61c098e124db90e3c1baa2123070895900f88a71120c9d82d7bed6c9d7c0c",
+      "identity_evidence_before_user_confirmation": "开镜后草地上极小的人体轮廓，66.6–69.4秒上下文中有移动及同一目标交战。可排除自身；未见对应的队标加昵称，按你对本素材的约定判断为对手候选。身体仅约9×13像素，范围尤其需复核；不把准星或后续蓝色命中特效纳入身体。"
+    },
+    {
+      "image": "team-video-003506.jpg",
+      "group": "video-f56a6964e40f07d99198be3ae3abdaee909ef044d06febe7fbfcc30c93c5e906",
+      "reviewed": true,
+      "boxes": [
+        [
+          393,
+          222,
+          404,
+          239
+        ]
+      ],
+      "roles": [
+        "opponent"
+      ],
+      "roles_reviewed": true,
+      "user_confirmed": true,
+      "user_review_status": "confirmed",
+      "assistant_reviewed": true,
+      "identity_evidence": "开镜后远处移动人形，117–121秒前后可核对位置变化；可排除自身，未见对应队标加昵称，建议为对手。人物很小，准星与身体重叠，需重点确认框的范围。",
+      "source_time_seconds": 117.033,
+      "requested_second": 117.0,
+      "source_frame": 3506,
+      "source_video_hash": "f56a6964e40f07d99198be3ae3abdaee909ef044d06febe7fbfcc30c93c5e906",
+      "user_review_number": 10,
+      "source_game_crop": [
+        85,
+        0,
+        876,
+        448
+      ],
+      "user_review_note": "",
+      "reviewer": "user_review_sheet",
+      "confirmation_record_sha256": "baa61c098e124db90e3c1baa2123070895900f88a71120c9d82d7bed6c9d7c0c",
+      "identity_evidence_before_user_confirmation": "开镜后远处移动人形，117–121秒前后可核对位置变化；可排除自身，未见对应队标加昵称，建议为对手。人物很小，准星与身体重叠，需重点确认框的范围。"
+    },
+    {
+      "image": "team-video-003542.jpg",
+      "group": "video-f56a6964e40f07d99198be3ae3abdaee909ef044d06febe7fbfcc30c93c5e906",
+      "reviewed": true,
+      "boxes": [],
+      "roles": [],
+      "roles_reviewed": true,
+      "user_confirmed": true,
+      "user_review_status": "confirmed",
+      "assistant_reviewed": true,
+      "identity_evidence": "开镜时树干挡住观察方向；不延续上一帧人物框去推测树后身体。本帧建议无可见人体，确认前请检查树干右侧边缘是否仍有露出的身体。",
+      "source_time_seconds": 118.233,
+      "requested_second": 118.2,
+      "source_frame": 3542,
+      "source_video_hash": "f56a6964e40f07d99198be3ae3abdaee909ef044d06febe7fbfcc30c93c5e906",
+      "user_review_number": 11,
+      "source_game_crop": [
+        85,
+        0,
+        876,
+        448
+      ],
+      "user_review_note": "",
+      "reviewer": "user_review_sheet",
+      "confirmation_record_sha256": "baa61c098e124db90e3c1baa2123070895900f88a71120c9d82d7bed6c9d7c0c",
+      "identity_evidence_before_user_confirmation": "开镜时树干挡住观察方向；不延续上一帧人物框去推测树后身体。本帧建议无可见人体，确认前请检查树干右侧边缘是否仍有露出的身体。"
+    },
+    {
+      "image": "team-video-003889.jpg",
+      "group": "video-f56a6964e40f07d99198be3ae3abdaee909ef044d06febe7fbfcc30c93c5e906",
+      "reviewed": true,
+      "boxes": [
+        [
+          391,
+          216,
+          403,
+          236
+        ]
+      ],
+      "roles": [
+        "opponent"
+      ],
+      "roles_reviewed": true,
+      "user_confirmed": true,
+      "user_review_status": "confirmed",
+      "assistant_reviewed": true,
+      "identity_evidence": "人工确认：没有队标+昵称，确认为对手",
+      "source_time_seconds": 129.8,
+      "requested_second": 129.8,
+      "source_frame": 3889,
+      "source_video_hash": "f56a6964e40f07d99198be3ae3abdaee909ef044d06febe7fbfcc30c93c5e906",
+      "user_review_number": 12,
+      "source_game_crop": [
+        85,
+        0,
+        876,
+        448
+      ],
+      "user_review_note": "人工确认：没有队标+昵称，确认为对手",
+      "reviewer": "user_review_sheet",
+      "confirmation_record_sha256": "baa61c098e124db90e3c1baa2123070895900f88a71120c9d82d7bed6c9d7c0c",
+      "identity_evidence_before_user_confirmation": "远景疑似人物部分被树枝、树干遮挡，129–131秒可见交战但单帧身体边界和对应身份证据偏弱，保留unknown；需你先确认这里是否确实是可见人体，再确认身份和范围。不能把树枝或命中特效当人体。"
+    },
+    {
+      "image": "team-video-004081.jpg",
+      "group": "video-f56a6964e40f07d99198be3ae3abdaee909ef044d06febe7fbfcc30c93c5e906",
+      "reviewed": true,
+      "boxes": [
+        [
+          392,
+          224,
+          403,
+          237
+        ]
+      ],
+      "roles": [
+        "opponent"
+      ],
+      "roles_reviewed": true,
+      "user_confirmed": true,
+      "user_review_status": "confirmed",
+      "assistant_reviewed": true,
+      "identity_evidence": "开镜远处蓝圈边缘可见小型人形，133–137秒可核对连续移动与交战；可排除自身，未见对应的队标加昵称，按素材约定建议为对手。只标可见的人形，不框树木、蓝圈特效；如已死亡或框范围有误，请标需修正。",
+      "source_time_seconds": 136.2,
+      "requested_second": 136.2,
+      "source_frame": 4081,
+      "source_video_hash": "f56a6964e40f07d99198be3ae3abdaee909ef044d06febe7fbfcc30c93c5e906",
+      "user_review_number": 13,
+      "source_game_crop": [
+        85,
+        0,
+        876,
+        448
+      ],
+      "user_review_note": "",
+      "reviewer": "user_review_sheet",
+      "confirmation_record_sha256": "baa61c098e124db90e3c1baa2123070895900f88a71120c9d82d7bed6c9d7c0c",
+      "identity_evidence_before_user_confirmation": "开镜远处蓝圈边缘可见小型人形，133–137秒可核对连续移动与交战；可排除自身，未见对应的队标加昵称，按素材约定建议为对手。只标可见的人形，不框树木、蓝圈特效；如已死亡或框范围有误，请标需修正。"
+    },
+    {
+      "image": "team-video-004225.jpg",
+      "group": "video-f56a6964e40f07d99198be3ae3abdaee909ef044d06febe7fbfcc30c93c5e906",
+      "reviewed": true,
+      "boxes": [
+        [
+          263,
+          252,
+          426,
+          448
+        ]
+      ],
+      "roles": [
+        "self"
+      ],
+      "roles_reviewed": true,
+      "user_confirmed": true,
+      "user_review_status": "confirmed",
+      "assistant_reviewed": true,
+      "identity_evidence": "退出瞄准镜恢复第三人称后，人物与连续跟随镜头对应为自身，说明切换视角不能把自身误作对手；外伸武器不单独标注。",
+      "source_time_seconds": 141.0,
+      "requested_second": 141,
+      "source_frame": 4225,
+      "source_video_hash": "f56a6964e40f07d99198be3ae3abdaee909ef044d06febe7fbfcc30c93c5e906",
+      "user_review_number": 14,
+      "source_game_crop": [
+        85,
+        0,
+        876,
+        448
+      ],
+      "user_review_note": "",
+      "reviewer": "user_review_sheet",
+      "confirmation_record_sha256": "baa61c098e124db90e3c1baa2123070895900f88a71120c9d82d7bed6c9d7c0c",
+      "identity_evidence_before_user_confirmation": "退出瞄准镜恢复第三人称后，人物与连续跟随镜头对应为自身，说明切换视角不能把自身误作对手；外伸武器不单独标注。"
+    }
+  ]
+}

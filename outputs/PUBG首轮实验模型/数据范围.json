@@ -1,0 +1,20 @@
+{
+  "reviewed_samples": 45,
+  "reviewed_positive_samples": 30,
+  "reviewed_boxes": 41,
+  "unreviewed_samples": 636,
+  "reviewer": "assistant_visual_review",
+  "train_samples": 35,
+  "validation_samples": 10,
+  "train_episodes": [
+    115,
+    116,
+    117,
+    118
+  ],
+  "validation_episodes": [
+    119
+  ],
+  "split_seed": 13,
+  "validation_is_small_and_not_an_independent_final_test": true
+}

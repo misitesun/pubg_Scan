@@ -1,0 +1,698 @@
+{
+  "format": "person-vision-review-v1",
+  "samples": [
+    {
+      "image": "71d3513f9e7645308ac578866a1bfa92.jpg",
+      "image_sha256": "a1f1a9011664abd67467588929dcd15a7076786c52409b96eb4f48438da11ae6",
+      "boxes": [
+        [
+          660,
+          772,
+          1120,
+          1440
+        ]
+      ],
+      "roles": [
+        "self"
+      ],
+      "status": "confirmed",
+      "note": "",
+      "number": 1
+    },
+    {
+      "image": "f98ad504a388419aa815b86b7d777344.jpg",
+      "image_sha256": "d1f5dd89f673d224851013d265e93a86820d40a333c7c97c5071aa4528bb01f0",
+      "boxes": [
+        [
+          730,
+          850,
+          1272,
+          1440
+        ]
+      ],
+      "roles": [
+        "self"
+      ],
+      "status": "confirmed",
+      "note": "",
+      "number": 2
+    },
+    {
+      "image": "88b7b187d7ba487da105962249266f93.jpg",
+      "image_sha256": "f58ba4bd698a77757df81dff0dcb777fd5e355c2479cfce5c86154d7d5c7ed84",
+      "boxes": [],
+      "roles": [],
+      "status": "confirmed",
+      "note": "",
+      "number": 3
+    },
+    {
+      "image": "58ae436a09e2409aa932dc66d217f46a.jpg",
+      "image_sha256": "2d4a2706a98a8773f79cdf222d6a2a8d1d49570f69a883e375d05f615539d352",
+      "boxes": [
+        [
+          960,
+          134,
+          1120,
+          428
+        ]
+      ],
+      "roles": [
+        "opponent"
+      ],
+      "status": "confirmed",
+      "note": "人工确认：人物1是对手。原先的 unknown 判断需要改为 opponent；该人物没有显示对应的队标或队友昵称。",
+      "number": 4
+    },
+    {
+      "image": "9629fc01218a472cb6f69b55ee84d78e.jpg",
+      "image_sha256": "716d92c37bbf2726a0cb19158c9983b12ea981d3fa3c17cecf33ee03b10a33ce",
+      "boxes": [
+        [
+          1110,
+          430,
+          1636,
+          984
+        ]
+      ],
+      "roles": [
+        "opponent"
+      ],
+      "status": "confirmed",
+      "note": "人工确认：人物1是对手。原先的 unknown 判断需要改为 opponent；该人物没有显示对应的队标或队友昵称。",
+      "number": 5
+    },
+    {
+      "image": "d57540da8cfa4269b0400e501b5779c3.jpg",
+      "image_sha256": "aa5b2772d7e20e2689356c7618431510649e9365b88d2c4e72185e4bf0ce7f85",
+      "boxes": [
+        [
+          1172,
+          636,
+          1372,
+          1044
+        ]
+      ],
+      "roles": [
+        "opponent"
+      ],
+      "status": "confirmed",
+      "note": "",
+      "number": 6
+    },
+    {
+      "image": "c26bfb0da8e545bc8345a528f6477f67.jpg",
+      "image_sha256": "ddeb026376bf8e15b5c9898f85f7507b583b972fcce65c786caadec47770df75",
+      "boxes": [
+        [
+          0,
+          684,
+          1014,
+          1440
+        ]
+      ],
+      "roles": [
+        "self"
+      ],
+      "status": "confirmed",
+      "note": "",
+      "number": 7
+    },
+    {
+      "image": "f3d4c789c96b4b2b8b5b9aa91f1838d2.jpg",
+      "image_sha256": "acabd530c1ba3fc3e73e66dbfcb2b50f59653080d14d8a4d5236433a0f6efd08",
+      "boxes": [
+        [
+          840,
+          680,
+          1204,
+          1440
+        ],
+        [
+          1580,
+          460,
+          2000,
+          802
+        ]
+      ],
+      "roles": [
+        "self",
+        "opponent"
+      ],
+      "status": "confirmed",
+      "note": "",
+      "number": 8
+    },
+    {
+      "image": "1c1052e0ab1046c08255b763dc663da5.jpg",
+      "image_sha256": "52ce4c7fbb33f1670be805a6a3329d0c042bfd82b01538216a7de1c29f7b1ec4",
+      "boxes": [
+        [
+          786,
+          918,
+          1244,
+          1440
+        ]
+      ],
+      "roles": [
+        "self"
+      ],
+      "status": "confirmed",
+      "note": "",
+      "number": 9
+    },
+    {
+      "image": "7a17484ed98d400f968c006edb2224f4.jpg",
+      "image_sha256": "3e7a874ffbce0dd99b9136639fb3ea4b12edccdcf99c5e10cab6318a9a9a769e",
+      "boxes": [],
+      "roles": [],
+      "status": "confirmed",
+      "note": "",
+      "number": 10
+    },
+    {
+      "image": "1c412176b6d845a7967aa76239959ce9.jpg",
+      "image_sha256": "53378fe06b638be7efa6dbb7f6ef936464189389ec56c4a5e5abe18e65186fb7",
+      "boxes": [
+        [
+          764,
+          754,
+          1180,
+          1440
+        ]
+      ],
+      "roles": [
+        "self"
+      ],
+      "status": "confirmed",
+      "note": "",
+      "number": 11
+    },
+    {
+      "image": "cc7ee685b2d949ada1930769e178c4bd.jpg",
+      "image_sha256": "c6b3153d4686676661115bdab6ee4195ecf446226387af342f6a6df182f02a0b",
+      "boxes": [
+        [
+          900,
+          660,
+          1200,
+          1440
+        ]
+      ],
+      "roles": [
+        "self"
+      ],
+      "status": "confirmed",
+      "note": "",
+      "number": 12
+    },
+    {
+      "image": "17e687d917c44943883db5b59f27296c.jpg",
+      "image_sha256": "21dab292fb3c40a995baeb0eba22e36d73f39615843e2a657d70c6e0ad2e6c30",
+      "boxes": [],
+      "roles": [],
+      "status": "confirmed",
+      "note": "",
+      "number": 13
+    },
+    {
+      "image": "a12c682fb83c49eda00094e1356a0a68.jpg",
+      "image_sha256": "2b05c29b4dd3131a6f5f81e0d9182c4a92b1d0d13b646ffb39b63d9624b14219",
+      "boxes": [
+        [
+          1320,
+          230,
+          2096,
+          1200
+        ]
+      ],
+      "roles": [
+        "opponent"
+      ],
+      "status": "confirmed",
+      "note": "",
+      "number": 14
+    },
+    {
+      "image": "29e476551d41424785eb75af6aac9597.jpg",
+      "image_sha256": "35775117aaa55fcffded8c8fc5f0bd6617f5aff2cebe42ef0072649d0600cf9c",
+      "boxes": [
+        [
+          770,
+          780,
+          1440,
+          1440
+        ],
+        [
+          924,
+          260,
+          1028,
+          540
+        ]
+      ],
+      "roles": [
+        "self",
+        "opponent"
+      ],
+      "status": "confirmed",
+      "note": "人工确认：人物2是对手。原先的 unknown 判断需要改为 opponent；该人物没有显示对应的队标或队友昵称。",
+      "number": 15
+    },
+    {
+      "image": "e97b7a6e25024a568e44fc7006c5ff82.jpg",
+      "image_sha256": "e2c593f82569d020d02b2a658c06066da20a9f85be91acf87e27ec8db61818a1",
+      "boxes": [],
+      "roles": [],
+      "status": "confirmed",
+      "note": "",
+      "number": 16
+    },
+    {
+      "image": "052ddb1205a341bc9a8aca31568d3199.jpg",
+      "image_sha256": "9cd554657b4fb0d49f4526f7d27ebdccbe32ef436efa87a3763418b303a0f7ad",
+      "boxes": [
+        [
+          0,
+          644,
+          980,
+          1440
+        ],
+        [
+          1590,
+          914,
+          2160,
+          1094
+        ]
+      ],
+      "roles": [
+        "self",
+        "opponent"
+      ],
+      "status": "confirmed",
+      "note": "人工确认：人物2是对手。原先的 unknown 判断需要改为 opponent；该人物没有显示对应的队标或队友昵称。可以看到对手已经成为盒子，并躺在地上，说明已经被打死，可以不标注",
+      "number": 17
+    },
+    {
+      "image": "587f8c5dcc8e4bbb996492567798064e.jpg",
+      "image_sha256": "27b5975bfc4c34bc34fb3f5d6ceaa9e3c9ed2d8e0f96d10adfbe519d2829ab5a",
+      "boxes": [
+        [
+          0,
+          758,
+          1070,
+          1440
+        ],
+        [
+          1300,
+          688,
+          1382,
+          776
+        ]
+      ],
+      "roles": [
+        "self",
+        "opponent"
+      ],
+      "status": "confirmed",
+      "note": "",
+      "number": 18
+    },
+    {
+      "image": "bb4c82d9b31d45e89fbb7eb91279a613.jpg",
+      "image_sha256": "d7d2fa069d43abd1d3f1cb6a819ccc7ba84a6b465b508913b836e73352335e87",
+      "boxes": [
+        [
+          592,
+          832,
+          1220,
+          1440
+        ]
+      ],
+      "roles": [
+        "self"
+      ],
+      "status": "confirmed",
+      "note": "",
+      "number": 19
+    },
+    {
+      "image": "c9882fb092fe491cb8bb4fe7d9791499.jpg",
+      "image_sha256": "7b0384f2506068ab37cc198153afaa955b131e5cf0239f3c47003328155078a9",
+      "boxes": [
+        [
+          252,
+          400,
+          1300,
+          1136
+        ]
+      ],
+      "roles": [
+        "self"
+      ],
+      "status": "confirmed",
+      "note": "",
+      "number": 20
+    },
+    {
+      "image": "7dd8d43d67a54f8dba668c7be2803a6d.jpg",
+      "image_sha256": "17431b0e164da5c5d50800acc89dfb3cc1275e295fcd9678039141b3e424c348",
+      "boxes": [
+        [
+          868,
+          802,
+          1256,
+          1440
+        ]
+      ],
+      "roles": [
+        "self"
+      ],
+      "status": "confirmed",
+      "note": "",
+      "number": 21
+    },
+    {
+      "image": "97e68f26ef8242debd64cebff623f0e9.jpg",
+      "image_sha256": "fe7cec96375a83e505bc002562d0f11b79b1bb7ef54e08c2effa96b6c7362e1a",
+      "boxes": [
+        [
+          922,
+          430,
+          1600,
+          890
+        ]
+      ],
+      "roles": [
+        "opponent"
+      ],
+      "status": "confirmed",
+      "note": "",
+      "number": 22
+    },
+    {
+      "image": "e676f0db84864c9cad0de1c9158036b6.jpg",
+      "image_sha256": "53b2817e2ba3adae701d2f94c2bfe25a977a219517be080a4f366699550cccab",
+      "boxes": [
+        [
+          834,
+          740,
+          1210,
+          1440
+        ]
+      ],
+      "roles": [
+        "self"
+      ],
+      "status": "confirmed",
+      "note": "",
+      "number": 23
+    },
+    {
+      "image": "32ec401cd9324382a3e749b7e11c8eee.jpg",
+      "image_sha256": "fd16641069e78476f6de6c7085055729e0f10c328b05bc431819583fcdf043c9",
+      "boxes": [
+        [
+          672,
+          800,
+          1470,
+          1440
+        ],
+        [
+          1468,
+          804,
+          1730,
+          1188
+        ]
+      ],
+      "roles": [
+        "self",
+        "opponent"
+      ],
+      "status": "confirmed",
+      "note": "人工确认：人物2是对手。原先的 unknown 判断需要改为 opponent；该人物没有显示对应的队标或队友昵称。",
+      "number": 24
+    },
+    {
+      "image": "4782154fb9ce49cbadfb757698a28882.jpg",
+      "image_sha256": "891143efa7aec44101d80b7ed0eae2444728e70baca92944236931f2541009d6",
+      "boxes": [
+        [
+          1100,
+          452,
+          1174,
+          642
+        ]
+      ],
+      "roles": [
+        "opponent"
+      ],
+      "status": "confirmed",
+      "note": "人工确认：人物1是对手。原先的 unknown 判断需要改为 opponent；该人物没有显示对应的队标或队友昵称。",
+      "number": 25
+    },
+    {
+      "image": "a58644ab1c594241a0f9cec7428a627b.jpg",
+      "image_sha256": "f0e2fda86069cc5fe3be55f941306b31cb4d08010e62be5574895a5bd75d190d",
+      "boxes": [
+        [
+          944,
+          542,
+          1124,
+          766
+        ]
+      ],
+      "roles": [
+        "opponent"
+      ],
+      "status": "confirmed",
+      "note": "",
+      "number": 26
+    },
+    {
+      "image": "95960d84e8ad49d49a315dabec9b20fa.jpg",
+      "image_sha256": "f22fef0305c043539a8628394b5af44241b989f8c86f525f80c7e94032491864",
+      "boxes": [
+        [
+          290,
+          646,
+          450,
+          822
+        ]
+      ],
+      "roles": [
+        "opponent"
+      ],
+      "status": "confirmed",
+      "note": "",
+      "number": 27
+    },
+    {
+      "image": "14388df7459143f8a82f012b4c7cd5dc.jpg",
+      "image_sha256": "a5cd025ba62e29d0d96fcc76fccdb53c33d3f4d42794ff9645c08674cb6342d5",
+      "boxes": [
+        [
+          910,
+          798,
+          1244,
+          1440
+        ]
+      ],
+      "roles": [
+        "self"
+      ],
+      "status": "confirmed",
+      "note": "",
+      "number": 28
+    },
+    {
+      "image": "8150fb1c7ae64b7bb5730aeda9b72dfc.jpg",
+      "image_sha256": "e066152540cefb8966c8bdb5c9f2015bb4dbf2d8aaaed3a459dd44da599eefc2",
+      "boxes": [
+        [
+          874,
+          500,
+          1288,
+          928
+        ]
+      ],
+      "roles": [
+        "opponent"
+      ],
+      "status": "confirmed",
+      "note": "",
+      "number": 29
+    },
+    {
+      "image": "d397b57c989e4af699919c6bbbe4fec4.jpg",
+      "image_sha256": "f91ef46014ad767f115ece152927f31bffb86766d6fff772be1dcb1c600d07f2",
+      "boxes": [
+        [
+          0,
+          736,
+          944,
+          1440
+        ],
+        [
+          1074,
+          644,
+          1324,
+          858
+        ]
+      ],
+      "roles": [
+        "self",
+        "opponent"
+      ],
+      "status": "confirmed",
+      "note": "",
+      "number": 30
+    },
+    {
+      "image": "5d88f63c3d624668ab082e67eb70f337.jpg",
+      "image_sha256": "1fca3fa3d63523b6694848431d34d08a7126c9c5d5b8097f269654d3974b3596",
+      "boxes": [],
+      "roles": [],
+      "status": "confirmed",
+      "note": "",
+      "number": 31
+    },
+    {
+      "image": "11527c891de44062858d1d4e09c09aff.jpg",
+      "image_sha256": "bc2583fc3d005594941c2189af1abcda0fa211a0155ae0ec0e1d342c37926738",
+      "boxes": [
+        [
+          70,
+          622,
+          1100,
+          1440
+        ],
+        [
+          1500,
+          776,
+          1994,
+          1140
+        ]
+      ],
+      "roles": [
+        "self",
+        "opponent"
+      ],
+      "status": "confirmed",
+      "note": "",
+      "number": 32
+    },
+    {
+      "image": "888d81107c8046149b888c85881d6a28.jpg",
+      "image_sha256": "17b766648deabd7e4f7a68e644e64b0a8416780b4f0ad550047a5017970f990e",
+      "boxes": [
+        [
+          462,
+          904,
+          1206,
+          1440
+        ],
+        [
+          1018,
+          570,
+          1114,
+          684
+        ]
+      ],
+      "roles": [
+        "self",
+        "opponent"
+      ],
+      "status": "confirmed",
+      "note": "人工确认：人物2是对手。原先的 unknown 判断需要改为 opponent；该人物没有显示对应的队标或队友昵称。",
+      "number": 33
+    },
+    {
+      "image": "8b2619bfb7f2477c894dd0dabf8176ff.jpg",
+      "image_sha256": "44823e7256ebb6fd1ee6ab7bccc105413107536e02fdd935f60ac8c59a6944ea",
+      "boxes": [
+        [
+          842,
+          754,
+          1476,
+          1440
+        ]
+      ],
+      "roles": [
+        "self"
+      ],
+      "status": "confirmed",
+      "note": "",
+      "number": 34
+    },
+    {
+      "image": "ba8012d304c8462a9edd31fe60d60dcd.jpg",
+      "image_sha256": "becc6bde31703b82e72f4fbbad8d4af69e7ec0b735cc7cc1eb00d0e3ec7c52d7",
+      "boxes": [],
+      "roles": [],
+      "status": "confirmed",
+      "note": "",
+      "number": 35
+    },
+    {
+      "image": "851f7b45e34341d7bc836d8fe1ce98ed.jpg",
+      "image_sha256": "6d4a5d87cb3b631661493047671820cbe305a187204753090d183427c2d1fc9b",
+      "boxes": [
+        [
+          774,
+          738,
+          1300,
+          1440
+        ]
+      ],
+      "roles": [
+        "self"
+      ],
+      "status": "confirmed",
+      "note": "",
+      "number": 36
+    },
+    {
+      "image": "6498c948a2b64f1f83b2a49b9222dff8.jpg",
+      "image_sha256": "5d50b5fb0e18f63888d49a77ea79c444b14b9d0dfb627d3646370aca3d5be60a",
+      "boxes": [
+        [
+          694,
+          744,
+          1040,
+          1440
+        ]
+      ],
+      "roles": [
+        "self"
+      ],
+      "status": "confirmed",
+      "note": "",
+      "number": 37
+    },
+    {
+      "image": "85e4bcc1ad89410c8a82c7ccb6ce118b.jpg",
+      "image_sha256": "8c035d798527f6ecf0a4f6733e4f579377d72a9d6152fa21fa69e95b12b1b568",
+      "boxes": [
+        [
+          776,
+          620,
+          1370,
+          1440
+        ],
+        [
+          1818,
+          792,
+          1956,
+          1010
+        ]
+      ],
+      "roles": [
+        "self",
+        "opponent"
+      ],
+      "status": "confirmed",
+      "note": "",
+      "number": 38
+    }
+  ]
+}

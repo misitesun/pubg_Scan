@@ -1,0 +1,36 @@
+{
+  "status": "experimental_not_windows_or_teammate_accepted",
+  "user_confirmed_images": 38,
+  "train_images": 24,
+  "validation_images": 14,
+  "teammate_training_instances": 0,
+  "ignored_dead_instances": 1,
+  "roles": {
+    "0": "self",
+    "1": "opponent",
+    "2": "teammate",
+    "3": "unknown"
+  },
+  "epochs": 100,
+  "initial_model": "PUBG身份实验模型-0.2/best.pt",
+  "onnx_validation": {
+    "confidence": 0.5,
+    "matching_iou": 0.5,
+    "images": 14,
+    "opponent_truth": 8,
+    "opponent_predictions": 0,
+    "matched_opponents": 0,
+    "opponent_precision": null,
+    "opponent_recall": 0.0,
+    "opponent_over_self": 0
+  },
+  "held_out_120": {
+    "opponent_truth": 1,
+    "matched_opponents": 0,
+    "participated_in_training": false
+  },
+  "sha256": {
+    "best.pt": "bd27b6e0693c9a726e6c77669c48f0267efa8c86f6ad2164503d2676aa8717fd",
+    "best.onnx": "c58684ca5332d6cf4a8437828608ccba41c883192f16b6a3faa582bdffacdda1"
+  }
+}

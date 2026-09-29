@@ -1,0 +1,11 @@
+.venv/
+.build-env/
+build/
+dist/
+*.spec
+__pycache__/
+.training-config/
+training-runs/
+*.pt
+*.onnx
+*.engine

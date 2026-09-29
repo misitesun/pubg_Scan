@@ -1,0 +1,13 @@
+{
+  "seed": 0,
+  "train_groups": [
+    "video-541340825f21257294b1b582f975a6c60cb002460c33b7930b1369b35fa6993c",
+    "video-6789fabbaca31609161af23c64795cb49dfc45c159e7a4724484e98ca22ae90f",
+    "video-f56a6964e40f07d99198be3ae3abdaee909ef044d06febe7fbfcc30c93c5e906"
+  ],
+  "val_groups": [
+    "video-d60aad0f07b222eacafb9760bbb6f91a4fb132e5590c1239f73b6941ccf814d0"
+  ],
+  "train_images": 38,
+  "val_images": 14
+}

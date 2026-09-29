@@ -1,0 +1,263 @@
+{
+  "format": "person-vision-review-v1",
+  "samples": [
+    {
+      "image": "team-video-000240.jpg",
+      "image_sha256": "f070e5cc093e2c32732c6bd88573fd47921b7df0b31de267959b18eef953688d",
+      "boxes": [
+        [
+          292,
+          225,
+          415,
+          448
+        ],
+        [
+          327,
+          113,
+          386,
+          201
+        ]
+      ],
+      "roles": [
+        "self",
+        "teammate"
+      ],
+      "status": "confirmed",
+      "note": "",
+      "number": 1
+    },
+    {
+      "image": "team-video-000569.jpg",
+      "image_sha256": "dbbb8e60353559af4d498aefc89e6ba9ba659045b00e4d5a23b9b2795fb98c00",
+      "boxes": [
+        [
+          288,
+          228,
+          419,
+          448
+        ],
+        [
+          309,
+          68,
+          352,
+          181
+        ]
+      ],
+      "roles": [
+        "self",
+        "teammate"
+      ],
+      "status": "confirmed",
+      "note": "",
+      "number": 2
+    },
+    {
+      "image": "team-video-000959.jpg",
+      "image_sha256": "418865a958d037c007d30083b1fcb92063f808d3350115efb8fe880133eaa696",
+      "boxes": [
+        [
+          254,
+          227,
+          414,
+          448
+        ],
+        [
+          555,
+          169,
+          572,
+          208
+        ],
+        [
+          451,
+          141,
+          461,
+          162
+        ]
+      ],
+      "roles": [
+        "self",
+        "teammate",
+        "teammate"
+      ],
+      "status": "confirmed",
+      "note": "",
+      "number": 3
+    },
+    {
+      "image": "team-video-000989.jpg",
+      "image_sha256": "37679cbb25ea2af1d674285bb32491e7bbe675ebf1fe352301cd4359c53c384e",
+      "boxes": [
+        [
+          263,
+          228,
+          414,
+          448
+        ],
+        [
+          648,
+          220,
+          703,
+          275
+        ]
+      ],
+      "roles": [
+        "self",
+        "teammate"
+      ],
+      "status": "confirmed",
+      "note": "",
+      "number": 4
+    },
+    {
+      "image": "team-video-001169.jpg",
+      "image_sha256": "22534565039b0a9752df90b317112d07c4c2d5161e56639a285a69a5bdbe7a22",
+      "boxes": [
+        [
+          284,
+          234,
+          418,
+          448
+        ],
+        [
+          600,
+          46,
+          637,
+          112
+        ]
+      ],
+      "roles": [
+        "self",
+        "teammate"
+      ],
+      "status": "confirmed",
+      "note": "",
+      "number": 5
+    },
+    {
+      "image": "team-video-000180.jpg",
+      "image_sha256": "7e19435fa0663ca4d182b5051de5cb6044bd968538296cbecf291e610112eac5",
+      "boxes": [],
+      "roles": [],
+      "status": "confirmed",
+      "note": "",
+      "number": 6
+    },
+    {
+      "image": "team-video-000390.jpg",
+      "image_sha256": "c1aa57e76ce398666605ea377058e089f83bcfc232a23aa59da9e75b89ed9198",
+      "boxes": [],
+      "roles": [],
+      "status": "confirmed",
+      "note": "",
+      "number": 7
+    },
+    {
+      "image": "team-video-001648.jpg",
+      "image_sha256": "d332931f143e241b617cba911d99f2ea4e0e9fa38b8ba3e71f6aede6cfebee9d",
+      "boxes": [],
+      "roles": [],
+      "status": "confirmed",
+      "note": "",
+      "number": 8
+    },
+    {
+      "image": "team-video-002008.jpg",
+      "image_sha256": "f45d1dac090e58ef23f6773072779f3a7816a71631c3ee42ef0827951d2e704b",
+      "boxes": [
+        [
+          394,
+          224,
+          403,
+          237
+        ]
+      ],
+      "roles": [
+        "opponent"
+      ],
+      "status": "confirmed",
+      "note": "",
+      "number": 9
+    },
+    {
+      "image": "team-video-003506.jpg",
+      "image_sha256": "8ba2e167139b9706061b25527f075901e5cbf8d73b69735d951ec9feb5806001",
+      "boxes": [
+        [
+          393,
+          222,
+          404,
+          239
+        ]
+      ],
+      "roles": [
+        "opponent"
+      ],
+      "status": "confirmed",
+      "note": "",
+      "number": 10
+    },
+    {
+      "image": "team-video-003542.jpg",
+      "image_sha256": "106840e9cd355d52df244d3765f4796cf7babde8524997659b6dc20a1431ba96",
+      "boxes": [],
+      "roles": [],
+      "status": "confirmed",
+      "note": "",
+      "number": 11
+    },
+    {
+      "image": "team-video-003889.jpg",
+      "image_sha256": "005591c57ed243e1be80da12e1024229dea8505c7a21b99235115f94ac395194",
+      "boxes": [
+        [
+          391,
+          216,
+          403,
+          236
+        ]
+      ],
+      "roles": [
+        "opponent"
+      ],
+      "status": "confirmed",
+      "note": "人工确认：没有队标+昵称，确认为对手",
+      "number": 12
+    },
+    {
+      "image": "team-video-004081.jpg",
+      "image_sha256": "6e7d8b32e26634795bb11e2bb59ae5589ff9095e3e82f97600aafe946d559a5a",
+      "boxes": [
+        [
+          392,
+          224,
+          403,
+          237
+        ]
+      ],
+      "roles": [
+        "opponent"
+      ],
+      "status": "confirmed",
+      "note": "",
+      "number": 13
+    },
+    {
+      "image": "team-video-004225.jpg",
+      "image_sha256": "02f7c9d882228d83c8b3be11a07ff296629b21d844c0b9f26bc3059db7597f90",
+      "boxes": [
+        [
+          263,
+          252,
+          426,
+          448
+        ]
+      ],
+      "roles": [
+        "self"
+      ],
+      "status": "confirmed",
+      "note": "",
+      "number": 14
+    }
+  ]
+}

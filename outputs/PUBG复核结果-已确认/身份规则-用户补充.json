@@ -1,0 +1,16 @@
+{
+  "team_slots": {
+    "1": "yellow",
+    "2": "orange",
+    "3": "blue",
+    "4": "green"
+  },
+  "provided_by": "user",
+  "visible_person_required": true,
+  "self_requires_camera_relation": true,
+  "teammate_rule": "人物对应的头顶编号/颜色队标与昵称，结合左下队伍名单核对；排除队友。",
+  "opponent_rule": "按用户当前素材的显示约定，可靠排除自身后，人物没有对应的队标和队友昵称则标为对手。",
+  "marker_only_rule": "墙后、画面边缘、车顶的孤立标记不代表身体可见，不预测人物框。",
+  "ambiguous_rule": "无法确认是否自身、头顶区域不可见或标记关联有歧义时，继续核对视频上下文，不强行自动确认为对手。",
+  "death_rule": "明确已死亡并成为盒子的角色不画框、不作为存活对手标签；仍存活的倒地人物保留。"
+}

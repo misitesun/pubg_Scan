@@ -1,0 +1,306 @@
+{
+  "input_size": 960,
+  "classes": {
+    "0": "self",
+    "1": "opponent",
+    "2": "teammate",
+    "3": "unknown"
+  },
+  "onnx_validation": {
+    "confidence": 0.5,
+    "matching_iou": 0.5,
+    "images": 14,
+    "opponent_truth": 8,
+    "opponent_predictions": 0,
+    "matched_opponents": 0,
+    "opponent_precision": null,
+    "opponent_recall": 0.0,
+    "opponent_over_self": 0
+  },
+  "held_out_120": {
+    "opponent_truth": 1,
+    "matched_opponents": 0,
+    "participated_in_training": false
+  },
+  "video_worker": {
+    "frames_consumed": 30,
+    "providers": [
+      "CPUExecutionProvider"
+    ],
+    "errors": [],
+    "stopped_and_cleared": true
+  },
+  "validation_predictions": [
+    {
+      "number": 25,
+      "episode": 123,
+      "time": 6.0,
+      "opponent_truth": 1,
+      "opponent_predictions": 0,
+      "matched_opponents": 0,
+      "inference_ms": 44.306957999651786,
+      "boxes": []
+    },
+    {
+      "number": 26,
+      "episode": 123,
+      "time": 12.0,
+      "opponent_truth": 1,
+      "opponent_predictions": 0,
+      "matched_opponents": 0,
+      "inference_ms": 39.90325000268058,
+      "boxes": [
+        {
+          "role": "self",
+          "confidence": 0.6115648150444031,
+          "bbox": [
+            644.7974243164062,
+            501.43792724609375,
+            1778.3944091796875,
+            1430.153564453125
+          ]
+        }
+      ]
+    },
+    {
+      "number": 27,
+      "episode": 123,
+      "time": 15.0,
+      "opponent_truth": 1,
+      "opponent_predictions": 0,
+      "matched_opponents": 0,
+      "inference_ms": 36.085499999899184,
+      "boxes": []
+    },
+    {
+      "number": 28,
+      "episode": 123,
+      "time": 36.0,
+      "opponent_truth": 0,
+      "opponent_predictions": 0,
+      "matched_opponents": 0,
+      "inference_ms": 35.38050000133808,
+      "boxes": [
+        {
+          "role": "self",
+          "confidence": 0.6702138781547546,
+          "bbox": [
+            968.9777221679688,
+            767.5062866210938,
+            1281.3157958984375,
+            1423.180419921875
+          ]
+        }
+      ]
+    },
+    {
+      "number": 29,
+      "episode": 123,
+      "time": 54.0,
+      "opponent_truth": 1,
+      "opponent_predictions": 0,
+      "matched_opponents": 0,
+      "inference_ms": 37.61920800025109,
+      "boxes": [
+        {
+          "role": "self",
+          "confidence": 0.8345057964324951,
+          "bbox": [
+            923.4142456054688,
+            1057.128173828125,
+            1307.2578125,
+            1425.426025390625
+          ]
+        }
+      ]
+    },
+    {
+      "number": 30,
+      "episode": 123,
+      "time": 87.0,
+      "opponent_truth": 1,
+      "opponent_predictions": 0,
+      "matched_opponents": 0,
+      "inference_ms": 42.646207999496255,
+      "boxes": [
+        {
+          "role": "self",
+          "confidence": 0.8306179046630859,
+          "bbox": [
+            0.0,
+            634.3839721679688,
+            1063.9107666015625,
+            1440.0
+          ]
+        }
+      ]
+    },
+    {
+      "number": 31,
+      "episode": 123,
+      "time": 99.0,
+      "opponent_truth": 0,
+      "opponent_predictions": 0,
+      "matched_opponents": 0,
+      "inference_ms": 43.55566700178315,
+      "boxes": [
+        {
+          "role": "self",
+          "confidence": 0.8219965100288391,
+          "bbox": [
+            1394.39892578125,
+            462.194091796875,
+            2368.0,
+            1431.6624755859375
+          ]
+        },
+        {
+          "role": "self",
+          "confidence": 0.5175641179084778,
+          "bbox": [
+            678.2145385742188,
+            158.0795440673828,
+            1434.83935546875,
+            1177.6697998046875
+          ]
+        }
+      ]
+    },
+    {
+      "number": 32,
+      "episode": 123,
+      "time": 111.0,
+      "opponent_truth": 1,
+      "opponent_predictions": 0,
+      "matched_opponents": 0,
+      "inference_ms": 36.419000000023516,
+      "boxes": [
+        {
+          "role": "self",
+          "confidence": 0.6817910075187683,
+          "bbox": [
+            6.589270114898682,
+            630.9252319335938,
+            1074.549072265625,
+            1428.78662109375
+          ]
+        }
+      ]
+    },
+    {
+      "number": 33,
+      "episode": 123,
+      "time": 174.0,
+      "opponent_truth": 1,
+      "opponent_predictions": 0,
+      "matched_opponents": 0,
+      "inference_ms": 37.16625000015483,
+      "boxes": [
+        {
+          "role": "self",
+          "confidence": 0.8976279497146606,
+          "bbox": [
+            490.648681640625,
+            901.7432861328125,
+            1270.19970703125,
+            1425.0987548828125
+          ]
+        }
+      ]
+    },
+    {
+      "number": 34,
+      "episode": 123,
+      "time": 195.0,
+      "opponent_truth": 0,
+      "opponent_predictions": 0,
+      "matched_opponents": 0,
+      "inference_ms": 41.20308400160866,
+      "boxes": [
+        {
+          "role": "self",
+          "confidence": 0.8775869607925415,
+          "bbox": [
+            814.5048828125,
+            785.3065795898438,
+            1217.8623046875,
+            1430.6982421875
+          ]
+        }
+      ]
+    },
+    {
+      "number": 35,
+      "episode": 123,
+      "time": 210.0,
+      "opponent_truth": 0,
+      "opponent_predictions": 0,
+      "matched_opponents": 0,
+      "inference_ms": 36.48799999791663,
+      "boxes": []
+    },
+    {
+      "number": 36,
+      "episode": 123,
+      "time": 216.0,
+      "opponent_truth": 0,
+      "opponent_predictions": 0,
+      "matched_opponents": 0,
+      "inference_ms": 36.4855420011736,
+      "boxes": [
+        {
+          "role": "self",
+          "confidence": 0.9034428596496582,
+          "bbox": [
+            807.9510498046875,
+            733.748046875,
+            1207.6778564453125,
+            1430.1533203125
+          ]
+        }
+      ]
+    },
+    {
+      "number": 37,
+      "episode": 123,
+      "time": 231.0,
+      "opponent_truth": 0,
+      "opponent_predictions": 0,
+      "matched_opponents": 0,
+      "inference_ms": 35.777540997514734,
+      "boxes": [
+        {
+          "role": "self",
+          "confidence": 0.9689085483551025,
+          "bbox": [
+            663.28076171875,
+            791.1329345703125,
+            1026.111572265625,
+            1429.798095703125
+          ]
+        }
+      ]
+    },
+    {
+      "number": 38,
+      "episode": 123,
+      "time": 246.0,
+      "opponent_truth": 1,
+      "opponent_predictions": 0,
+      "matched_opponents": 0,
+      "inference_ms": 33.997624999756226,
+      "boxes": [
+        {
+          "role": "self",
+          "confidence": 0.751113772392273,
+          "bbox": [
+            746.2429809570312,
+            623.34814453125,
+            1348.410888671875,
+            1429.8507080078125
+          ]
+        }
+      ]
+    }
+  ]
+}

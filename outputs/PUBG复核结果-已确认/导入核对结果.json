@@ -1,0 +1,102 @@
+{
+  "user_confirmed_frames": 38,
+  "corrections": [
+    {
+      "number": 4,
+      "image": "58ae436a09e2409aa932dc66d217f46a.jpg",
+      "before": [
+        "unknown"
+      ],
+      "after": [
+        "opponent"
+      ],
+      "note": "人工确认：人物1是对手。原先的 unknown 判断需要改为 opponent；该人物没有显示对应的队标或队友昵称。"
+    },
+    {
+      "number": 5,
+      "image": "9629fc01218a472cb6f69b55ee84d78e.jpg",
+      "before": [
+        "unknown"
+      ],
+      "after": [
+        "opponent"
+      ],
+      "note": "人工确认：人物1是对手。原先的 unknown 判断需要改为 opponent；该人物没有显示对应的队标或队友昵称。"
+    },
+    {
+      "number": 15,
+      "image": "29e476551d41424785eb75af6aac9597.jpg",
+      "before": [
+        "self",
+        "unknown"
+      ],
+      "after": [
+        "self",
+        "opponent"
+      ],
+      "note": "人工确认：人物2是对手。原先的 unknown 判断需要改为 opponent；该人物没有显示对应的队标或队友昵称。"
+    },
+    {
+      "number": 17,
+      "image": "052ddb1205a341bc9a8aca31568d3199.jpg",
+      "before": [
+        "self",
+        "unknown"
+      ],
+      "after": [
+        "self",
+        "opponent"
+      ],
+      "note": "人工确认：人物2是对手。原先的 unknown 判断需要改为 opponent；该人物没有显示对应的队标或队友昵称。可以看到对手已经成为盒子，并躺在地上，说明已经被打死，可以不标注"
+    },
+    {
+      "number": 24,
+      "image": "32ec401cd9324382a3e749b7e11c8eee.jpg",
+      "before": [
+        "self",
+        "unknown"
+      ],
+      "after": [
+        "self",
+        "opponent"
+      ],
+      "note": "人工确认：人物2是对手。原先的 unknown 判断需要改为 opponent；该人物没有显示对应的队标或队友昵称。"
+    },
+    {
+      "number": 25,
+      "image": "4782154fb9ce49cbadfb757698a28882.jpg",
+      "before": [
+        "unknown"
+      ],
+      "after": [
+        "opponent"
+      ],
+      "note": "人工确认：人物1是对手。原先的 unknown 判断需要改为 opponent；该人物没有显示对应的队标或队友昵称。"
+    },
+    {
+      "number": 33,
+      "image": "888d81107c8046149b888c85881d6a28.jpg",
+      "before": [
+        "self",
+        "unknown"
+      ],
+      "after": [
+        "self",
+        "opponent"
+      ],
+      "note": "人工确认：人物2是对手。原先的 unknown 判断需要改为 opponent；该人物没有显示对应的队标或队友昵称。"
+    }
+  ],
+  "role_instances_for_training": {
+    "self": 23,
+    "opponent": 17
+  },
+  "ignored_dead_instances": 1,
+  "negative_frames": 6,
+  "train_images": 24,
+  "val_images": 14,
+  "remaining_unreviewed": 260,
+  "teammate_reference_images": 4,
+  "teammate_labeled_training_instances": 0,
+  "record_sha256": "e160313d3c44392dd268962cdd694df747b68b90281108bec728ff999f3d72a9"
+}

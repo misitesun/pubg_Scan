@@ -1,0 +1,2018 @@
+{
+  "version": 1,
+  "samples": [
+    {
+      "image": "71d3513f9e7645308ac578866a1bfa92.jpg",
+      "group": "video-541340825f21257294b1b582f975a6c60cb002460c33b7930b1369b35fa6993c",
+      "reviewed": true,
+      "boxes": [
+        [
+          660,
+          772,
+          1120,
+          1440
+        ]
+      ],
+      "episode": 121,
+      "source_video_id": "7268634170681789696",
+      "source_time_seconds": 0.0,
+      "roles": [
+        "self"
+      ],
+      "roles_reviewed": true,
+      "draft_confidences": [],
+      "draft_boxes": [],
+      "reviewer": "user_review_sheet",
+      "user_confirmed": true,
+      "identity_evidence": "第三人称镜头对应的操控角色；无其他明确可见人物。",
+      "user_review_note": "",
+      "user_review_status": "confirmed",
+      "user_review_number": 1,
+      "source_project_name": "PUBG身份素材-第121至123集"
+    },
+    {
+      "image": "f98ad504a388419aa815b86b7d777344.jpg",
+      "group": "video-541340825f21257294b1b582f975a6c60cb002460c33b7930b1369b35fa6993c",
+      "reviewed": true,
+      "boxes": [
+        [
+          730,
+          850,
+          1272,
+          1440
+        ]
+      ],
+      "episode": 121,
+      "source_video_id": "7268634170681789696",
+      "source_time_seconds": 18.0,
+      "roles": [
+        "self"
+      ],
+      "roles_reviewed": true,
+      "draft_confidences": [],
+      "draft_boxes": [],
+      "reviewer": "user_review_sheet",
+      "user_confirmed": true,
+      "identity_evidence": "第三人称镜头对应的操控角色；无其他明确可见人物。",
+      "user_review_note": "",
+      "user_review_status": "confirmed",
+      "user_review_number": 2,
+      "source_project_name": "PUBG身份素材-第121至123集"
+    },
+    {
+      "image": "88b7b187d7ba487da105962249266f93.jpg",
+      "group": "video-541340825f21257294b1b582f975a6c60cb002460c33b7930b1369b35fa6993c",
+      "reviewed": true,
+      "boxes": [],
+      "episode": 121,
+      "source_video_id": "7268634170681789696",
+      "source_time_seconds": 75.0,
+      "roles": [],
+      "roles_reviewed": true,
+      "draft_confidences": [
+        0.254047691822052,
+        0.21182820200920105
+      ],
+      "draft_boxes": [
+        [
+          836.5864868164062,
+          201.3531036376953,
+          1364.111572265625,
+          1399.912841796875
+        ],
+        [
+          1717.942138671875,
+          922.6763916015625,
+          1930.91015625,
+          1112.90234375
+        ]
+      ],
+      "reviewer": "user_review_sheet",
+      "user_confirmed": true,
+      "identity_evidence": "无实际场景人物：排除背包界面立绘、武器、第一人称孤立手臂和 UI。",
+      "user_review_note": "",
+      "user_review_status": "confirmed",
+      "user_review_number": 3,
+      "source_project_name": "PUBG身份素材-第121至123集"
+    },
+    {
+      "image": "58ae436a09e2409aa932dc66d217f46a.jpg",
+      "group": "video-541340825f21257294b1b582f975a6c60cb002460c33b7930b1369b35fa6993c",
+      "reviewed": true,
+      "boxes": [
+        [
+          960,
+          134,
+          1120,
+          428
+        ]
+      ],
+      "episode": 121,
+      "source_video_id": "7268634170681789696",
+      "source_time_seconds": 99.0,
+      "roles": [
+        "opponent"
+      ],
+      "roles_reviewed": true,
+      "draft_confidences": [
+        0.7017993927001953
+      ],
+      "draft_boxes": [
+        [
+          959.5875244140625,
+          92.71537017822266,
+          1136.0125732421875,
+          434.82867431640625
+        ]
+      ],
+      "reviewer": "user_review_sheet",
+      "user_confirmed": true,
+      "identity_evidence": "人工确认：人物1是对手。原先的 unknown 判断需要改为 opponent；该人物没有显示对应的队标或队友昵称。",
+      "user_review_note": "人工确认：人物1是对手。原先的 unknown 判断需要改为 opponent；该人物没有显示对应的队标或队友昵称。",
+      "user_review_status": "confirmed",
+      "user_review_number": 4,
+      "source_project_name": "PUBG身份素材-第121至123集"
+    },
+    {
+      "image": "9629fc01218a472cb6f69b55ee84d78e.jpg",
+      "group": "video-541340825f21257294b1b582f975a6c60cb002460c33b7930b1369b35fa6993c",
+      "reviewed": true,
+      "boxes": [
+        [
+          1110,
+          430,
+          1636,
+          984
+        ]
+      ],
+      "episode": 121,
+      "source_video_id": "7268634170681789696",
+      "source_time_seconds": 114.0,
+      "roles": [
+        "opponent"
+      ],
+      "roles_reviewed": true,
+      "draft_confidences": [
+        0.27926313877105713
+      ],
+      "draft_boxes": [
+        [
+          886.2537231445312,
+          358.1469421386719,
+          1593.9552001953125,
+          1439.0335693359375
+        ]
+      ],
+      "reviewer": "user_review_sheet",
+      "user_confirmed": true,
+      "identity_evidence": "人工确认：人物1是对手。原先的 unknown 判断需要改为 opponent；该人物没有显示对应的队标或队友昵称。",
+      "user_review_note": "人工确认：人物1是对手。原先的 unknown 判断需要改为 opponent；该人物没有显示对应的队标或队友昵称。",
+      "user_review_status": "confirmed",
+      "user_review_number": 5,
+      "source_project_name": "PUBG身份素材-第121至123集"
+    },
+    {
+      "image": "d57540da8cfa4269b0400e501b5779c3.jpg",
+      "group": "video-541340825f21257294b1b582f975a6c60cb002460c33b7930b1369b35fa6993c",
+      "reviewed": true,
+      "boxes": [
+        [
+          1172,
+          636,
+          1372,
+          1044
+        ]
+      ],
+      "episode": 121,
+      "source_video_id": "7268634170681789696",
+      "source_time_seconds": 120.0,
+      "roles": [
+        "opponent"
+      ],
+      "roles_reviewed": true,
+      "draft_confidences": [
+        0.6351938247680664,
+        0.34949547052383423,
+        0.2580399513244629
+      ],
+      "draft_boxes": [
+        [
+          0.0,
+          880.8679809570312,
+          701.1465454101562,
+          1440.0
+        ],
+        [
+          1169.3916015625,
+          642.6458740234375,
+          1495.17333984375,
+          1210.886474609375
+        ],
+        [
+          717.0960083007812,
+          887.6400146484375,
+          1131.4801025390625,
+          1440.0
+        ]
+      ],
+      "reviewer": "user_review_sheet",
+      "user_confirmed": true,
+      "identity_evidence": "正在向同一人物开火且有命中特效；未见对应队标，按用户确认的无队标对手规则标注。",
+      "user_review_note": "",
+      "user_review_status": "confirmed",
+      "user_review_number": 6,
+      "source_project_name": "PUBG身份素材-第121至123集"
+    },
+    {
+      "image": "c26bfb0da8e545bc8345a528f6477f67.jpg",
+      "group": "video-541340825f21257294b1b582f975a6c60cb002460c33b7930b1369b35fa6993c",
+      "reviewed": true,
+      "boxes": [
+        [
+          0,
+          684,
+          1014,
+          1440
+        ]
+      ],
+      "episode": 121,
+      "source_video_id": "7268634170681789696",
+      "source_time_seconds": 144.0,
+      "roles": [
+        "self"
+      ],
+      "roles_reviewed": true,
+      "draft_confidences": [
+        0.5475649237632751
+      ],
+      "draft_boxes": [
+        [
+          0.13226115703582764,
+          534.6680908203125,
+          973.7334594726562,
+          1440.0
+        ]
+      ],
+      "reviewer": "user_review_sheet",
+      "user_confirmed": true,
+      "identity_evidence": "第三人称镜头对应的操控角色；无其他明确可见人物。",
+      "user_review_note": "",
+      "user_review_status": "confirmed",
+      "user_review_number": 7,
+      "source_project_name": "PUBG身份素材-第121至123集"
+    },
+    {
+      "image": "f3d4c789c96b4b2b8b5b9aa91f1838d2.jpg",
+      "group": "video-541340825f21257294b1b582f975a6c60cb002460c33b7930b1369b35fa6993c",
+      "reviewed": true,
+      "boxes": [
+        [
+          840,
+          680,
+          1204,
+          1440
+        ],
+        [
+          1580,
+          460,
+          2000,
+          802
+        ]
+      ],
+      "episode": 121,
+      "source_video_id": "7268634170681789696",
+      "source_time_seconds": 189.0,
+      "roles": [
+        "self",
+        "opponent"
+      ],
+      "roles_reviewed": true,
+      "draft_confidences": [
+        0.501866340637207
+      ],
+      "draft_boxes": [
+        [
+          841.0199584960938,
+          679.7750244140625,
+          1247.8685302734375,
+          1440.0
+        ]
+      ],
+      "reviewer": "user_review_sheet",
+      "user_confirmed": true,
+      "identity_evidence": "画面有连续交战后的击倒 / 击杀提示；近景镜头对应自身，坡上倒地人物为刚交战对象。",
+      "user_review_note": "",
+      "user_review_status": "confirmed",
+      "user_review_number": 8,
+      "source_project_name": "PUBG身份素材-第121至123集"
+    },
+    {
+      "image": "1c1052e0ab1046c08255b763dc663da5.jpg",
+      "group": "video-541340825f21257294b1b582f975a6c60cb002460c33b7930b1369b35fa6993c",
+      "reviewed": true,
+      "boxes": [
+        [
+          786,
+          918,
+          1244,
+          1440
+        ]
+      ],
+      "episode": 121,
+      "source_video_id": "7268634170681789696",
+      "source_time_seconds": 216.0,
+      "roles": [
+        "self"
+      ],
+      "roles_reviewed": true,
+      "draft_confidences": [
+        0.7135605812072754
+      ],
+      "draft_boxes": [
+        [
+          785.7212524414062,
+          664.0341796875,
+          1254.25439453125,
+          1434.25732421875
+        ]
+      ],
+      "reviewer": "user_review_sheet",
+      "user_confirmed": true,
+      "identity_evidence": "第三人称镜头对应的操控角色；无其他明确可见人物。",
+      "user_review_note": "",
+      "user_review_status": "confirmed",
+      "user_review_number": 9,
+      "source_project_name": "PUBG身份素材-第121至123集"
+    },
+    {
+      "image": "7a17484ed98d400f968c006edb2224f4.jpg",
+      "group": "video-541340825f21257294b1b582f975a6c60cb002460c33b7930b1369b35fa6993c",
+      "reviewed": true,
+      "boxes": [],
+      "episode": 121,
+      "source_video_id": "7268634170681789696",
+      "source_time_seconds": 234.0,
+      "roles": [],
+      "roles_reviewed": true,
+      "draft_confidences": [
+        0.5508201122283936
+      ],
+      "draft_boxes": [
+        [
+          1348.60595703125,
+          1020.16015625,
+          1698.9840087890625,
+          1440.0
+        ]
+      ],
+      "reviewer": "user_review_sheet",
+      "user_confirmed": true,
+      "identity_evidence": "无实际场景人物：排除背包界面立绘、武器、第一人称孤立手臂和 UI。",
+      "user_review_note": "",
+      "user_review_status": "confirmed",
+      "user_review_number": 10,
+      "source_project_name": "PUBG身份素材-第121至123集"
+    },
+    {
+      "image": "1c412176b6d845a7967aa76239959ce9.jpg",
+      "group": "video-541340825f21257294b1b582f975a6c60cb002460c33b7930b1369b35fa6993c",
+      "reviewed": true,
+      "boxes": [
+        [
+          764,
+          754,
+          1180,
+          1440
+        ]
+      ],
+      "episode": 121,
+      "source_video_id": "7268634170681789696",
+      "source_time_seconds": 243.0,
+      "roles": [
+        "self"
+      ],
+      "roles_reviewed": true,
+      "draft_confidences": [
+        0.5116809606552124
+      ],
+      "draft_boxes": [
+        [
+          640.0758666992188,
+          751.117919921875,
+          1211.4326171875,
+          1440.0
+        ]
+      ],
+      "reviewer": "user_review_sheet",
+      "user_confirmed": true,
+      "identity_evidence": "第三人称镜头对应的操控角色；无其他明确可见人物。",
+      "user_review_note": "",
+      "user_review_status": "confirmed",
+      "user_review_number": 11,
+      "source_project_name": "PUBG身份素材-第121至123集"
+    },
+    {
+      "image": "cc7ee685b2d949ada1930769e178c4bd.jpg",
+      "group": "video-541340825f21257294b1b582f975a6c60cb002460c33b7930b1369b35fa6993c",
+      "reviewed": true,
+      "boxes": [
+        [
+          900,
+          660,
+          1200,
+          1440
+        ]
+      ],
+      "episode": 121,
+      "source_video_id": "7268634170681789696",
+      "source_time_seconds": 255.0,
+      "roles": [
+        "self"
+      ],
+      "roles_reviewed": true,
+      "draft_confidences": [
+        0.6797007918357849,
+        0.2217952311038971
+      ],
+      "draft_boxes": [
+        [
+          879.6448974609375,
+          652.4737548828125,
+          1202.7047119140625,
+          1424.676513671875
+        ],
+        [
+          1076.31884765625,
+          64.62244415283203,
+          1086.889404296875,
+          100.1009521484375
+        ]
+      ],
+      "reviewer": "user_review_sheet",
+      "user_confirmed": true,
+      "identity_evidence": "第三人称镜头对应的操控角色；无其他明确可见人物。",
+      "user_review_note": "",
+      "user_review_status": "confirmed",
+      "user_review_number": 12,
+      "source_project_name": "PUBG身份素材-第121至123集"
+    },
+    {
+      "image": "17e687d917c44943883db5b59f27296c.jpg",
+      "group": "video-6789fabbaca31609161af23c64795cb49dfc45c159e7a4724484e98ca22ae90f",
+      "reviewed": true,
+      "boxes": [],
+      "episode": 122,
+      "source_video_id": "7269383287800466728",
+      "source_time_seconds": 24.024,
+      "roles": [],
+      "roles_reviewed": true,
+      "draft_confidences": [],
+      "draft_boxes": [],
+      "reviewer": "user_review_sheet",
+      "user_confirmed": true,
+      "identity_evidence": "无实际场景人物：排除背包界面立绘、武器、第一人称孤立手臂和 UI。",
+      "user_review_note": "",
+      "user_review_status": "confirmed",
+      "user_review_number": 13,
+      "source_project_name": "PUBG身份素材-第121至123集"
+    },
+    {
+      "image": "a12c682fb83c49eda00094e1356a0a68.jpg",
+      "group": "video-6789fabbaca31609161af23c64795cb49dfc45c159e7a4724484e98ca22ae90f",
+      "reviewed": true,
+      "boxes": [
+        [
+          1320,
+          230,
+          2096,
+          1200
+        ]
+      ],
+      "episode": 122,
+      "source_video_id": "7269383287800466728",
+      "source_time_seconds": 69.07,
+      "roles": [
+        "opponent"
+      ],
+      "roles_reviewed": true,
+      "draft_confidences": [
+        0.31769442558288574
+      ],
+      "draft_boxes": [
+        [
+          1294.89794921875,
+          101.22351837158203,
+          2072.435791015625,
+          1440.0
+        ]
+      ],
+      "reviewer": "user_review_sheet",
+      "user_confirmed": true,
+      "identity_evidence": "同一近景人物出现命中特效及“您以 ACE32 击倒 Unknown#039”提示。",
+      "user_review_note": "",
+      "user_review_status": "confirmed",
+      "user_review_number": 14,
+      "source_project_name": "PUBG身份素材-第121至123集"
+    },
+    {
+      "image": "29e476551d41424785eb75af6aac9597.jpg",
+      "group": "video-6789fabbaca31609161af23c64795cb49dfc45c159e7a4724484e98ca22ae90f",
+      "reviewed": true,
+      "boxes": [
+        [
+          770,
+          780,
+          1440,
+          1440
+        ],
+        [
+          924,
+          260,
+          1028,
+          540
+        ]
+      ],
+      "episode": 122,
+      "source_video_id": "7269383287800466728",
+      "source_time_seconds": 117.119,
+      "roles": [
+        "self",
+        "opponent"
+      ],
+      "roles_reviewed": true,
+      "draft_confidences": [
+        0.7856403589248657,
+        0.7011139392852783
+      ],
+      "draft_boxes": [
+        [
+          924.0082397460938,
+          237.59146118164062,
+          1024.21728515625,
+          546.9449462890625
+        ],
+        [
+          771.13671875,
+          759.423828125,
+          1424.2183837890625,
+          1440.0
+        ]
+      ],
+      "reviewer": "user_review_sheet",
+      "user_confirmed": true,
+      "identity_evidence": "人工确认：人物2是对手。原先的 unknown 判断需要改为 opponent；该人物没有显示对应的队标或队友昵称。",
+      "user_review_note": "人工确认：人物2是对手。原先的 unknown 判断需要改为 opponent；该人物没有显示对应的队标或队友昵称。",
+      "user_review_status": "confirmed",
+      "user_review_number": 15,
+      "source_project_name": "PUBG身份素材-第121至123集"
+    },
+    {
+      "image": "e97b7a6e25024a568e44fc7006c5ff82.jpg",
+      "group": "video-6789fabbaca31609161af23c64795cb49dfc45c159e7a4724484e98ca22ae90f",
+      "reviewed": true,
+      "boxes": [],
+      "episode": 122,
+      "source_video_id": "7269383287800466728",
+      "source_time_seconds": 120.122,
+      "roles": [],
+      "roles_reviewed": true,
+      "draft_confidences": [
+        0.6887197494506836,
+        0.37501978874206543
+      ],
+      "draft_boxes": [
+        [
+          944.3572387695312,
+          172.5171661376953,
+          1344.6298828125,
+          1352.15380859375
+        ],
+        [
+          1929.180419921875,
+          759.2857666015625,
+          2367.836669921875,
+          1440.0
+        ]
+      ],
+      "reviewer": "user_review_sheet",
+      "user_confirmed": true,
+      "identity_evidence": "无实际场景人物：排除背包界面立绘、武器、第一人称孤立手臂和 UI。",
+      "user_review_note": "",
+      "user_review_status": "confirmed",
+      "user_review_number": 16,
+      "source_project_name": "PUBG身份素材-第121至123集"
+    },
+    {
+      "image": "052ddb1205a341bc9a8aca31568d3199.jpg",
+      "group": "video-6789fabbaca31609161af23c64795cb49dfc45c159e7a4724484e98ca22ae90f",
+      "reviewed": true,
+      "boxes": [
+        [
+          0,
+          644,
+          980,
+          1440
+        ],
+        [
+          1590,
+          914,
+          2160,
+          1094
+        ]
+      ],
+      "episode": 122,
+      "source_video_id": "7269383287800466728",
+      "source_time_seconds": 159.161,
+      "roles": [
+        "self",
+        "opponent"
+      ],
+      "roles_reviewed": true,
+      "draft_confidences": [],
+      "draft_boxes": [],
+      "reviewer": "user_review_sheet",
+      "user_confirmed": true,
+      "identity_evidence": "人工确认：人物2是对手。原先的 unknown 判断需要改为 opponent；该人物没有显示对应的队标或队友昵称。可以看到对手已经成为盒子，并躺在地上，说明已经被打死，可以不标注",
+      "user_review_note": "人工确认：人物2是对手。原先的 unknown 判断需要改为 opponent；该人物没有显示对应的队标或队友昵称。可以看到对手已经成为盒子，并躺在地上，说明已经被打死，可以不标注",
+      "user_review_status": "confirmed",
+      "user_review_number": 17,
+      "ignored_box_indices": [
+        1
+      ],
+      "ignored_box_reasons": {
+        "1": "用户确认人物2已死亡并成为盒子，不作为需要画框的存活对手。"
+      },
+      "source_project_name": "PUBG身份素材-第121至123集"
+    },
+    {
+      "image": "587f8c5dcc8e4bbb996492567798064e.jpg",
+      "group": "video-6789fabbaca31609161af23c64795cb49dfc45c159e7a4724484e98ca22ae90f",
+      "reviewed": true,
+      "boxes": [
+        [
+          0,
+          758,
+          1070,
+          1440
+        ],
+        [
+          1300,
+          688,
+          1382,
+          776
+        ]
+      ],
+      "episode": 122,
+      "source_video_id": "7269383287800466728",
+      "source_time_seconds": 183.186,
+      "roles": [
+        "self",
+        "opponent"
+      ],
+      "roles_reviewed": true,
+      "draft_confidences": [
+        0.5095193982124329
+      ],
+      "draft_boxes": [
+        [
+          6.723714351654053,
+          769.3425903320312,
+          1062.0980224609375,
+          1440.0
+        ]
+      ],
+      "reviewer": "user_review_sheet",
+      "user_confirmed": true,
+      "identity_evidence": "门内可见倒地人物，同时显示“您以 AKM 击倒 Unknown#006”提示。",
+      "user_review_note": "",
+      "user_review_status": "confirmed",
+      "user_review_number": 18,
+      "source_project_name": "PUBG身份素材-第121至123集"
+    },
+    {
+      "image": "bb4c82d9b31d45e89fbb7eb91279a613.jpg",
+      "group": "video-6789fabbaca31609161af23c64795cb49dfc45c159e7a4724484e98ca22ae90f",
+      "reviewed": true,
+      "boxes": [
+        [
+          592,
+          832,
+          1220,
+          1440
+        ]
+      ],
+      "episode": 122,
+      "source_video_id": "7269383287800466728",
+      "source_time_seconds": 225.228,
+      "roles": [
+        "self"
+      ],
+      "roles_reviewed": true,
+      "draft_confidences": [
+        0.5651360750198364
+      ],
+      "draft_boxes": [
+        [
+          505.63580322265625,
+          829.3341674804688,
+          1252.224609375,
+          1440.0
+        ]
+      ],
+      "reviewer": "user_review_sheet",
+      "user_confirmed": true,
+      "identity_evidence": "第三人称镜头对应的操控角色；无其他明确可见人物。",
+      "user_review_note": "",
+      "user_review_status": "confirmed",
+      "user_review_number": 19,
+      "source_project_name": "PUBG身份素材-第121至123集"
+    },
+    {
+      "image": "c9882fb092fe491cb8bb4fe7d9791499.jpg",
+      "group": "video-6789fabbaca31609161af23c64795cb49dfc45c159e7a4724484e98ca22ae90f",
+      "reviewed": true,
+      "boxes": [
+        [
+          252,
+          400,
+          1300,
+          1136
+        ]
+      ],
+      "episode": 122,
+      "source_video_id": "7269383287800466728",
+      "source_time_seconds": 237.24,
+      "roles": [
+        "self"
+      ],
+      "roles_reviewed": true,
+      "draft_confidences": [
+        0.6147216558456421
+      ],
+      "draft_boxes": [
+        [
+          273.9772033691406,
+          352.241943359375,
+          1285.6802978515625,
+          1433.388427734375
+        ]
+      ],
+      "reviewer": "user_review_sheet",
+      "user_confirmed": true,
+      "identity_evidence": "第三人称镜头对应的操控角色；无其他明确可见人物。",
+      "user_review_note": "",
+      "user_review_status": "confirmed",
+      "user_review_number": 20,
+      "source_project_name": "PUBG身份素材-第121至123集"
+    },
+    {
+      "image": "7dd8d43d67a54f8dba668c7be2803a6d.jpg",
+      "group": "video-6789fabbaca31609161af23c64795cb49dfc45c159e7a4724484e98ca22ae90f",
+      "reviewed": true,
+      "boxes": [
+        [
+          868,
+          802,
+          1256,
+          1440
+        ]
+      ],
+      "episode": 122,
+      "source_video_id": "7269383287800466728",
+      "source_time_seconds": 267.271,
+      "roles": [
+        "self"
+      ],
+      "roles_reviewed": true,
+      "draft_confidences": [
+        0.546264111995697
+      ],
+      "draft_boxes": [
+        [
+          755.8814086914062,
+          747.4652709960938,
+          1280.5633544921875,
+          1440.0
+        ]
+      ],
+      "reviewer": "user_review_sheet",
+      "user_confirmed": true,
+      "identity_evidence": "第三人称镜头对应的操控角色；无其他明确可见人物。",
+      "user_review_note": "",
+      "user_review_status": "confirmed",
+      "user_review_number": 21,
+      "source_project_name": "PUBG身份素材-第121至123集"
+    },
+    {
+      "image": "97e68f26ef8242debd64cebff623f0e9.jpg",
+      "group": "video-6789fabbaca31609161af23c64795cb49dfc45c159e7a4724484e98ca22ae90f",
+      "reviewed": true,
+      "boxes": [
+        [
+          922,
+          430,
+          1600,
+          890
+        ]
+      ],
+      "episode": 122,
+      "source_video_id": "7269383287800466728",
+      "source_time_seconds": 297.301,
+      "roles": [
+        "opponent"
+      ],
+      "roles_reviewed": true,
+      "draft_confidences": [
+        0.2788327932357788,
+        0.2391863465309143
+      ],
+      "draft_boxes": [
+        [
+          745.4912719726562,
+          199.03187561035156,
+          1614.3836669921875,
+          1419.968994140625
+        ],
+        [
+          175.87985229492188,
+          4.602868556976318,
+          328.1604309082031,
+          192.53128051757812
+        ]
+      ],
+      "reviewer": "user_review_sheet",
+      "user_confirmed": true,
+      "identity_evidence": "向该近景人物开火、出现命中特效，同时显示击倒提示。",
+      "user_review_note": "",
+      "user_review_status": "confirmed",
+      "user_review_number": 22,
+      "source_project_name": "PUBG身份素材-第121至123集"
+    },
+    {
+      "image": "e676f0db84864c9cad0de1c9158036b6.jpg",
+      "group": "video-6789fabbaca31609161af23c64795cb49dfc45c159e7a4724484e98ca22ae90f",
+      "reviewed": true,
+      "boxes": [
+        [
+          834,
+          740,
+          1210,
+          1440
+        ]
+      ],
+      "episode": 122,
+      "source_video_id": "7269383287800466728",
+      "source_time_seconds": 309.313,
+      "roles": [
+        "self"
+      ],
+      "roles_reviewed": true,
+      "draft_confidences": [
+        0.6986367702484131
+      ],
+      "draft_boxes": [
+        [
+          827.2694702148438,
+          727.5784301757812,
+          1208.2177734375,
+          1438.52099609375
+        ]
+      ],
+      "reviewer": "user_review_sheet",
+      "user_confirmed": true,
+      "identity_evidence": "第三人称镜头对应的操控角色；无其他明确可见人物。",
+      "user_review_note": "",
+      "user_review_status": "confirmed",
+      "user_review_number": 23,
+      "source_project_name": "PUBG身份素材-第121至123集"
+    },
+    {
+      "image": "32ec401cd9324382a3e749b7e11c8eee.jpg",
+      "group": "video-6789fabbaca31609161af23c64795cb49dfc45c159e7a4724484e98ca22ae90f",
+      "reviewed": true,
+      "boxes": [
+        [
+          672,
+          800,
+          1470,
+          1440
+        ],
+        [
+          1468,
+          804,
+          1730,
+          1188
+        ]
+      ],
+      "episode": 122,
+      "source_video_id": "7269383287800466728",
+      "source_time_seconds": 324.329,
+      "roles": [
+        "self",
+        "opponent"
+      ],
+      "roles_reviewed": true,
+      "draft_confidences": [
+        0.613619327545166,
+        0.29426735639572144,
+        0.2788679003715515
+      ],
+      "draft_boxes": [
+        [
+          1461.786376953125,
+          792.7206420898438,
+          1753.8074951171875,
+          1205.845703125
+        ],
+        [
+          778.17626953125,
+          768.8982543945312,
+          1457.600341796875,
+          1440.0
+        ],
+        [
+          673.274169921875,
+          782.5932006835938,
+          1055.2259521484375,
+          1440.0
+        ]
+      ],
+      "reviewer": "user_review_sheet",
+      "user_confirmed": true,
+      "identity_evidence": "人工确认：人物2是对手。原先的 unknown 判断需要改为 opponent；该人物没有显示对应的队标或队友昵称。",
+      "user_review_note": "人工确认：人物2是对手。原先的 unknown 判断需要改为 opponent；该人物没有显示对应的队标或队友昵称。",
+      "user_review_status": "confirmed",
+      "user_review_number": 24,
+      "source_project_name": "PUBG身份素材-第121至123集"
+    },
+    {
+      "image": "4782154fb9ce49cbadfb757698a28882.jpg",
+      "group": "video-d60aad0f07b222eacafb9760bbb6f91a4fb132e5590c1239f73b6941ccf814d0",
+      "reviewed": true,
+      "boxes": [
+        [
+          1100,
+          452,
+          1174,
+          642
+        ]
+      ],
+      "episode": 123,
+      "source_video_id": "7270483776730303759",
+      "source_time_seconds": 6.0,
+      "roles": [
+        "opponent"
+      ],
+      "roles_reviewed": true,
+      "draft_confidences": [
+        0.4431666433811188
+      ],
+      "draft_boxes": [
+        [
+          1094.7760009765625,
+          436.5870666503906,
+          1213.14111328125,
+          720.1749877929688
+        ]
+      ],
+      "reviewer": "user_review_sheet",
+      "user_confirmed": true,
+      "identity_evidence": "人工确认：人物1是对手。原先的 unknown 判断需要改为 opponent；该人物没有显示对应的队标或队友昵称。",
+      "user_review_note": "人工确认：人物1是对手。原先的 unknown 判断需要改为 opponent；该人物没有显示对应的队标或队友昵称。",
+      "user_review_status": "confirmed",
+      "user_review_number": 25,
+      "source_project_name": "PUBG身份素材-第121至123集"
+    },
+    {
+      "image": "a58644ab1c594241a0f9cec7428a627b.jpg",
+      "group": "video-d60aad0f07b222eacafb9760bbb6f91a4fb132e5590c1239f73b6941ccf814d0",
+      "reviewed": true,
+      "boxes": [
+        [
+          944,
+          542,
+          1124,
+          766
+        ]
+      ],
+      "episode": 123,
+      "source_video_id": "7270483776730303759",
+      "source_time_seconds": 12.0,
+      "roles": [
+        "opponent"
+      ],
+      "roles_reviewed": true,
+      "draft_confidences": [
+        0.450225293636322
+      ],
+      "draft_boxes": [
+        [
+          0.0,
+          16.768938064575195,
+          430.0876159667969,
+          1409.988525390625
+        ]
+      ],
+      "reviewer": "user_review_sheet",
+      "user_confirmed": true,
+      "identity_evidence": "向楼梯下方人物开火并显示“您以 AKM 击倒 Unknown#003”提示。",
+      "user_review_note": "",
+      "user_review_status": "confirmed",
+      "user_review_number": 26,
+      "source_project_name": "PUBG身份素材-第121至123集"
+    },
+    {
+      "image": "95960d84e8ad49d49a315dabec9b20fa.jpg",
+      "group": "video-d60aad0f07b222eacafb9760bbb6f91a4fb132e5590c1239f73b6941ccf814d0",
+      "reviewed": true,
+      "boxes": [
+        [
+          290,
+          646,
+          450,
+          822
+        ]
+      ],
+      "episode": 123,
+      "source_video_id": "7270483776730303759",
+      "source_time_seconds": 15.0,
+      "roles": [
+        "opponent"
+      ],
+      "roles_reviewed": true,
+      "draft_confidences": [
+        0.46828338503837585
+      ],
+      "draft_boxes": [
+        [
+          1653.342041015625,
+          543.6680908203125,
+          1930.821044921875,
+          1228.0633544921875
+        ]
+      ],
+      "reviewer": "user_review_sheet",
+      "user_confirmed": true,
+      "identity_evidence": "刚发生交战且当前仍显示 Unknown#003 / Unknown#041 的击倒提示；未见人物对应队标。",
+      "user_review_note": "",
+      "user_review_status": "confirmed",
+      "user_review_number": 27,
+      "source_project_name": "PUBG身份素材-第121至123集"
+    },
+    {
+      "image": "14388df7459143f8a82f012b4c7cd5dc.jpg",
+      "group": "video-d60aad0f07b222eacafb9760bbb6f91a4fb132e5590c1239f73b6941ccf814d0",
+      "reviewed": true,
+      "boxes": [
+        [
+          910,
+          798,
+          1244,
+          1440
+        ]
+      ],
+      "episode": 123,
+      "source_video_id": "7270483776730303759",
+      "source_time_seconds": 36.0,
+      "roles": [
+        "self"
+      ],
+      "roles_reviewed": true,
+      "draft_confidences": [
+        0.6050071120262146
+      ],
+      "draft_boxes": [
+        [
+          906.5052490234375,
+          778.8577880859375,
+          1279.49072265625,
+          1440.0
+        ]
+      ],
+      "reviewer": "user_review_sheet",
+      "user_confirmed": true,
+      "identity_evidence": "第三人称镜头对应的操控角色；无其他明确可见人物。",
+      "user_review_note": "",
+      "user_review_status": "confirmed",
+      "user_review_number": 28,
+      "source_project_name": "PUBG身份素材-第121至123集"
+    },
+    {
+      "image": "8150fb1c7ae64b7bb5730aeda9b72dfc.jpg",
+      "group": "video-d60aad0f07b222eacafb9760bbb6f91a4fb132e5590c1239f73b6941ccf814d0",
+      "reviewed": true,
+      "boxes": [
+        [
+          874,
+          500,
+          1288,
+          928
+        ]
+      ],
+      "episode": 123,
+      "source_video_id": "7270483776730303759",
+      "source_time_seconds": 54.0,
+      "roles": [
+        "opponent"
+      ],
+      "roles_reviewed": true,
+      "draft_confidences": [
+        0.5682117938995361
+      ],
+      "draft_boxes": [
+        [
+          910.41845703125,
+          883.0017700195312,
+          1296.8499755859375,
+          1440.0
+        ]
+      ],
+      "reviewer": "user_review_sheet",
+      "user_confirmed": true,
+      "identity_evidence": "向该倒地人物开火并显示“您以 AKM 击倒 Unknown#036”提示。",
+      "user_review_note": "",
+      "user_review_status": "confirmed",
+      "user_review_number": 29,
+      "source_project_name": "PUBG身份素材-第121至123集"
+    },
+    {
+      "image": "d397b57c989e4af699919c6bbbe4fec4.jpg",
+      "group": "video-d60aad0f07b222eacafb9760bbb6f91a4fb132e5590c1239f73b6941ccf814d0",
+      "reviewed": true,
+      "boxes": [
+        [
+          0,
+          736,
+          944,
+          1440
+        ],
+        [
+          1074,
+          644,
+          1324,
+          858
+        ]
+      ],
+      "episode": 123,
+      "source_video_id": "7270483776730303759",
+      "source_time_seconds": 87.0,
+      "roles": [
+        "self",
+        "opponent"
+      ],
+      "roles_reviewed": true,
+      "draft_confidences": [
+        0.31235969066619873,
+        0.21441152691841125
+      ],
+      "draft_boxes": [
+        [
+          1929.07080078125,
+          2.775602340698242,
+          2365.846923828125,
+          1131.10546875
+        ],
+        [
+          1.7399455308914185,
+          725.746826171875,
+          963.5303955078125,
+          1440.0
+        ]
+      ],
+      "reviewer": "user_review_sheet",
+      "user_confirmed": true,
+      "identity_evidence": "紧邻倒地人物的交战画面显示 Micro UZI 击倒 Unknown#058；近景是操控角色。",
+      "user_review_note": "",
+      "user_review_status": "confirmed",
+      "user_review_number": 30,
+      "source_project_name": "PUBG身份素材-第121至123集"
+    },
+    {
+      "image": "5d88f63c3d624668ab082e67eb70f337.jpg",
+      "group": "video-d60aad0f07b222eacafb9760bbb6f91a4fb132e5590c1239f73b6941ccf814d0",
+      "reviewed": true,
+      "boxes": [],
+      "episode": 123,
+      "source_video_id": "7270483776730303759",
+      "source_time_seconds": 99.0,
+      "roles": [],
+      "roles_reviewed": true,
+      "draft_confidences": [
+        0.48275548219680786
+      ],
+      "draft_boxes": [
+        [
+          878.1928100585938,
+          163.5450897216797,
+          1372.490234375,
+          1411.8724365234375
+        ]
+      ],
+      "reviewer": "user_review_sheet",
+      "user_confirmed": true,
+      "identity_evidence": "无实际场景人物：排除背包界面立绘、武器、第一人称孤立手臂和 UI。",
+      "user_review_note": "",
+      "user_review_status": "confirmed",
+      "user_review_number": 31,
+      "source_project_name": "PUBG身份素材-第121至123集"
+    },
+    {
+      "image": "11527c891de44062858d1d4e09c09aff.jpg",
+      "group": "video-d60aad0f07b222eacafb9760bbb6f91a4fb132e5590c1239f73b6941ccf814d0",
+      "reviewed": true,
+      "boxes": [
+        [
+          70,
+          622,
+          1100,
+          1440
+        ],
+        [
+          1500,
+          776,
+          1994,
+          1140
+        ]
+      ],
+      "episode": 123,
+      "source_video_id": "7270483776730303759",
+      "source_time_seconds": 111.0,
+      "roles": [
+        "self",
+        "opponent"
+      ],
+      "roles_reviewed": true,
+      "draft_confidences": [
+        0.6064653396606445,
+        0.21789827942848206
+      ],
+      "draft_boxes": [
+        [
+          1500.0594482421875,
+          653.1270141601562,
+          2008.4493408203125,
+          1434.3443603515625
+        ],
+        [
+          8.293232917785645,
+          634.6788330078125,
+          1060.067138671875,
+          1440.0
+        ]
+      ],
+      "reviewer": "user_review_sheet",
+      "user_confirmed": true,
+      "identity_evidence": "倒地人物对应当前 Micro UZI 击倒 Unknown#025 提示；近景是操控角色。",
+      "user_review_note": "",
+      "user_review_status": "confirmed",
+      "user_review_number": 32,
+      "source_project_name": "PUBG身份素材-第121至123集"
+    },
+    {
+      "image": "888d81107c8046149b888c85881d6a28.jpg",
+      "group": "video-d60aad0f07b222eacafb9760bbb6f91a4fb132e5590c1239f73b6941ccf814d0",
+      "reviewed": true,
+      "boxes": [
+        [
+          462,
+          904,
+          1206,
+          1440
+        ],
+        [
+          1018,
+          570,
+          1114,
+          684
+        ]
+      ],
+      "episode": 123,
+      "source_video_id": "7270483776730303759",
+      "source_time_seconds": 174.0,
+      "roles": [
+        "self",
+        "opponent"
+      ],
+      "roles_reviewed": true,
+      "draft_confidences": [],
+      "draft_boxes": [],
+      "reviewer": "user_review_sheet",
+      "user_confirmed": true,
+      "identity_evidence": "人工确认：人物2是对手。原先的 unknown 判断需要改为 opponent；该人物没有显示对应的队标或队友昵称。",
+      "user_review_note": "人工确认：人物2是对手。原先的 unknown 判断需要改为 opponent；该人物没有显示对应的队标或队友昵称。",
+      "user_review_status": "confirmed",
+      "user_review_number": 33,
+      "source_project_name": "PUBG身份素材-第121至123集"
+    },
+    {
+      "image": "8b2619bfb7f2477c894dd0dabf8176ff.jpg",
+      "group": "video-d60aad0f07b222eacafb9760bbb6f91a4fb132e5590c1239f73b6941ccf814d0",
+      "reviewed": true,
+      "boxes": [
+        [
+          842,
+          754,
+          1476,
+          1440
+        ]
+      ],
+      "episode": 123,
+      "source_video_id": "7270483776730303759",
+      "source_time_seconds": 195.0,
+      "roles": [
+        "self"
+      ],
+      "roles_reviewed": true,
+      "draft_confidences": [
+        0.5250496864318848
+      ],
+      "draft_boxes": [
+        [
+          822.1640625,
+          768.883544921875,
+          1248.6307373046875,
+          1440.0
+        ]
+      ],
+      "reviewer": "user_review_sheet",
+      "user_confirmed": true,
+      "identity_evidence": "第三人称镜头对应的操控角色；无其他明确可见人物。",
+      "user_review_note": "",
+      "user_review_status": "confirmed",
+      "user_review_number": 34,
+      "source_project_name": "PUBG身份素材-第121至123集"
+    },
+    {
+      "image": "ba8012d304c8462a9edd31fe60d60dcd.jpg",
+      "group": "video-d60aad0f07b222eacafb9760bbb6f91a4fb132e5590c1239f73b6941ccf814d0",
+      "reviewed": true,
+      "boxes": [],
+      "episode": 123,
+      "source_video_id": "7270483776730303759",
+      "source_time_seconds": 210.0,
+      "roles": [],
+      "roles_reviewed": true,
+      "draft_confidences": [],
+      "draft_boxes": [],
+      "reviewer": "user_review_sheet",
+      "user_confirmed": true,
+      "identity_evidence": "无实际场景人物：排除背包界面立绘、武器、第一人称孤立手臂和 UI。",
+      "user_review_note": "",
+      "user_review_status": "confirmed",
+      "user_review_number": 35,
+      "source_project_name": "PUBG身份素材-第121至123集"
+    },
+    {
+      "image": "851f7b45e34341d7bc836d8fe1ce98ed.jpg",
+      "group": "video-d60aad0f07b222eacafb9760bbb6f91a4fb132e5590c1239f73b6941ccf814d0",
+      "reviewed": true,
+      "boxes": [
+        [
+          774,
+          738,
+          1300,
+          1440
+        ]
+      ],
+      "episode": 123,
+      "source_video_id": "7270483776730303759",
+      "source_time_seconds": 216.0,
+      "roles": [
+        "self"
+      ],
+      "roles_reviewed": true,
+      "draft_confidences": [
+        0.422404021024704
+      ],
+      "draft_boxes": [
+        [
+          740.3408813476562,
+          746.0889892578125,
+          1207.181640625,
+          1440.0
+        ]
+      ],
+      "reviewer": "user_review_sheet",
+      "user_confirmed": true,
+      "identity_evidence": "第三人称镜头对应的操控角色；无其他明确可见人物。",
+      "user_review_note": "",
+      "user_review_status": "confirmed",
+      "user_review_number": 36,
+      "source_project_name": "PUBG身份素材-第121至123集"
+    },
+    {
+      "image": "6498c948a2b64f1f83b2a49b9222dff8.jpg",
+      "group": "video-d60aad0f07b222eacafb9760bbb6f91a4fb132e5590c1239f73b6941ccf814d0",
+      "reviewed": true,
+      "boxes": [
+        [
+          694,
+          744,
+          1040,
+          1440
+        ]
+      ],
+      "episode": 123,
+      "source_video_id": "7270483776730303759",
+      "source_time_seconds": 231.0,
+      "roles": [
+        "self"
+      ],
+      "roles_reviewed": true,
+      "draft_confidences": [
+        0.7237309813499451
+      ],
+      "draft_boxes": [
+        [
+          684.00634765625,
+          747.8328247070312,
+          1048.6903076171875,
+          1440.0
+        ]
+      ],
+      "reviewer": "user_review_sheet",
+      "user_confirmed": true,
+      "identity_evidence": "第三人称镜头对应的操控角色；无其他明确可见人物。",
+      "user_review_note": "",
+      "user_review_status": "confirmed",
+      "user_review_number": 37,
+      "source_project_name": "PUBG身份素材-第121至123集"
+    },
+    {
+      "image": "85e4bcc1ad89410c8a82c7ccb6ce118b.jpg",
+      "group": "video-d60aad0f07b222eacafb9760bbb6f91a4fb132e5590c1239f73b6941ccf814d0",
+      "reviewed": true,
+      "boxes": [
+        [
+          776,
+          620,
+          1370,
+          1440
+        ],
+        [
+          1818,
+          792,
+          1956,
+          1010
+        ]
+      ],
+      "episode": 123,
+      "source_video_id": "7270483776730303759",
+      "source_time_seconds": 246.0,
+      "roles": [
+        "self",
+        "opponent"
+      ],
+      "roles_reviewed": true,
+      "draft_confidences": [
+        0.42496258020401,
+        0.21966800093650818
+      ],
+      "draft_boxes": [
+        [
+          1815.98876953125,
+          809.5872802734375,
+          1961.73828125,
+          1010.9602661132812
+        ],
+        [
+          756.6387329101562,
+          646.6046752929688,
+          1419.5709228515625,
+          1440.0
+        ]
+      ],
+      "reviewer": "user_review_sheet",
+      "user_confirmed": true,
+      "identity_evidence": "右上仅剩 2 人存活，左下队友已死亡；操控角色旁的另一个人物没有对应队标，按画面上下文为对手。",
+      "user_review_note": "",
+      "user_review_status": "confirmed",
+      "user_review_number": 38,
+      "source_project_name": "PUBG身份素材-第121至123集"
+    },
+    {
+      "image": "team-video-000240.jpg",
+      "group": "video-f56a6964e40f07d99198be3ae3abdaee909ef044d06febe7fbfcc30c93c5e906",
+      "reviewed": true,
+      "boxes": [
+        [
+          292,
+          225,
+          415,
+          448
+        ],
+        [
+          327,
+          113,
+          386,
+          201
+        ]
+      ],
+      "roles": [
+        "self",
+        "teammate"
+      ],
+      "roles_reviewed": true,
+      "user_confirmed": true,
+      "user_review_status": "confirmed",
+      "assistant_reviewed": true,
+      "identity_evidence": "人物1与第三人称镜头连续保持操控角色关系；人物2在空投旁，有对应的黄色1号标记，结合19秒同一段上下文判断为队友。车顶或车内位置标记不补成人体。",
+      "source_time_seconds": 8.1,
+      "requested_second": 8,
+      "source_frame": 240,
+      "source_video_hash": "f56a6964e40f07d99198be3ae3abdaee909ef044d06febe7fbfcc30c93c5e906",
+      "user_review_number": 1,
+      "source_game_crop": [
+        85,
+        0,
+        876,
+        448
+      ],
+      "user_review_note": "",
+      "reviewer": "user_review_sheet",
+      "confirmation_record_sha256": "baa61c098e124db90e3c1baa2123070895900f88a71120c9d82d7bed6c9d7c0c",
+      "identity_evidence_before_user_confirmation": "人物1与第三人称镜头连续保持操控角色关系；人物2在空投旁，有对应的黄色1号标记，结合19秒同一段上下文判断为队友。车顶或车内位置标记不补成人体。",
+      "source_project_name": "PUBG队友录像-14张待确认"
+    },
+    {
+      "image": "team-video-000569.jpg",
+      "group": "video-f56a6964e40f07d99198be3ae3abdaee909ef044d06febe7fbfcc30c93c5e906",
+      "reviewed": true,
+      "boxes": [
+        [
+          288,
+          228,
+          419,
+          448
+        ],
+        [
+          309,
+          68,
+          352,
+          181
+        ]
+      ],
+      "roles": [
+        "self",
+        "teammate"
+      ],
+      "roles_reviewed": true,
+      "user_confirmed": true,
+      "user_review_status": "confirmed",
+      "assistant_reviewed": true,
+      "identity_evidence": "人物1为连续第三人称跟随的自身；人物2头顶黄色1号明确对应可见白衣人物，可与左下黄色1号队伍信息核对。两者都不应在最终画框视图显示。",
+      "source_time_seconds": 19.067,
+      "requested_second": 19,
+      "source_frame": 569,
+      "source_video_hash": "f56a6964e40f07d99198be3ae3abdaee909ef044d06febe7fbfcc30c93c5e906",
+      "user_review_number": 2,
+      "source_game_crop": [
+        85,
+        0,
+        876,
+        448
+      ],
+      "user_review_note": "",
+      "reviewer": "user_review_sheet",
+      "confirmation_record_sha256": "baa61c098e124db90e3c1baa2123070895900f88a71120c9d82d7bed6c9d7c0c",
+      "identity_evidence_before_user_confirmation": "人物1为连续第三人称跟随的自身；人物2头顶黄色1号明确对应可见白衣人物，可与左下黄色1号队伍信息核对。两者都不应在最终画框视图显示。",
+      "source_project_name": "PUBG队友录像-14张待确认"
+    },
+    {
+      "image": "team-video-000959.jpg",
+      "group": "video-f56a6964e40f07d99198be3ae3abdaee909ef044d06febe7fbfcc30c93c5e906",
+      "reviewed": true,
+      "boxes": [
+        [
+          254,
+          227,
+          414,
+          448
+        ],
+        [
+          555,
+          169,
+          572,
+          208
+        ],
+        [
+          451,
+          141,
+          461,
+          162
+        ]
+      ],
+      "roles": [
+        "self",
+        "teammate",
+        "teammate"
+      ],
+      "roles_reviewed": true,
+      "user_confirmed": true,
+      "user_review_status": "confirmed",
+      "assistant_reviewed": true,
+      "identity_evidence": "用户已确认：人物1为自身，人物2、人物3均为队友。远处队友在单帧中队标难以读清，不能仅凭缺少清晰标记改判对手；身份以用户复核为准。",
+      "source_time_seconds": 32.1,
+      "requested_second": 32,
+      "source_frame": 959,
+      "source_video_hash": "f56a6964e40f07d99198be3ae3abdaee909ef044d06febe7fbfcc30c93c5e906",
+      "user_review_number": 3,
+      "source_game_crop": [
+        85,
+        0,
+        876,
+        448
+      ],
+      "user_review_note": "",
+      "reviewer": "user_review_sheet",
+      "confirmation_record_sha256": "baa61c098e124db90e3c1baa2123070895900f88a71120c9d82d7bed6c9d7c0c",
+      "identity_evidence_before_user_confirmation": "人物1为自身；人物2头顶蓝色3号明确对应当前人物；人物3为更远处实际可见的人形，当前压缩画面没有读清与其对应的队标或昵称，暂保留unknown，请核对31–34秒上下文。",
+      "source_project_name": "PUBG队友录像-14张待确认"
+    },
+    {
+      "image": "team-video-000989.jpg",
+      "group": "video-f56a6964e40f07d99198be3ae3abdaee909ef044d06febe7fbfcc30c93c5e906",
+      "reviewed": true,
+      "boxes": [
+        [
+          263,
+          228,
+          414,
+          448
+        ],
+        [
+          648,
+          220,
+          703,
+          275
+        ]
+      ],
+      "roles": [
+        "self",
+        "teammate"
+      ],
+      "roles_reviewed": true,
+      "user_confirmed": true,
+      "user_review_status": "confirmed",
+      "assistant_reviewed": true,
+      "identity_evidence": "人物1为自身；人物2在岩石右侧，蓝色3号标记与身体对应，32–39秒可持续核对。只框可见部分，不补岩石挡住的身体。",
+      "source_time_seconds": 33.1,
+      "requested_second": 33,
+      "source_frame": 989,
+      "source_video_hash": "f56a6964e40f07d99198be3ae3abdaee909ef044d06febe7fbfcc30c93c5e906",
+      "user_review_number": 4,
+      "source_game_crop": [
+        85,
+        0,
+        876,
+        448
+      ],
+      "user_review_note": "",
+      "reviewer": "user_review_sheet",
+      "confirmation_record_sha256": "baa61c098e124db90e3c1baa2123070895900f88a71120c9d82d7bed6c9d7c0c",
+      "identity_evidence_before_user_confirmation": "人物1为自身；人物2在岩石右侧，蓝色3号标记与身体对应，32–39秒可持续核对。只框可见部分，不补岩石挡住的身体。",
+      "source_project_name": "PUBG队友录像-14张待确认"
+    },
+    {
+      "image": "team-video-001169.jpg",
+      "group": "video-f56a6964e40f07d99198be3ae3abdaee909ef044d06febe7fbfcc30c93c5e906",
+      "reviewed": true,
+      "boxes": [
+        [
+          284,
+          234,
+          418,
+          448
+        ],
+        [
+          600,
+          46,
+          637,
+          112
+        ]
+      ],
+      "roles": [
+        "self",
+        "teammate"
+      ],
+      "roles_reviewed": true,
+      "user_confirmed": true,
+      "user_review_status": "confirmed",
+      "assistant_reviewed": true,
+      "identity_evidence": "人物1为自身；山坡岩石上的人物2头顶清楚显示蓝色3号，且与前后人物移动对应，为队友。外伸枪械及人物脚下阴影不作为身体范围。",
+      "source_time_seconds": 39.1,
+      "requested_second": 39,
+      "source_frame": 1169,
+      "source_video_hash": "f56a6964e40f07d99198be3ae3abdaee909ef044d06febe7fbfcc30c93c5e906",
+      "user_review_number": 5,
+      "source_game_crop": [
+        85,
+        0,
+        876,
+        448
+      ],
+      "user_review_note": "",
+      "reviewer": "user_review_sheet",
+      "confirmation_record_sha256": "baa61c098e124db90e3c1baa2123070895900f88a71120c9d82d7bed6c9d7c0c",
+      "identity_evidence_before_user_confirmation": "人物1为自身；山坡岩石上的人物2头顶清楚显示蓝色3号，且与前后人物移动对应，为队友。外伸枪械及人物脚下阴影不作为身体范围。",
+      "source_project_name": "PUBG队友录像-14张待确认"
+    },
+    {
+      "image": "team-video-000180.jpg",
+      "group": "video-f56a6964e40f07d99198be3ae3abdaee909ef044d06febe7fbfcc30c93c5e906",
+      "reviewed": true,
+      "boxes": [],
+      "roles": [],
+      "roles_reviewed": true,
+      "user_confirmed": true,
+      "user_review_status": "confirmed",
+      "assistant_reviewed": true,
+      "identity_evidence": "背包/补给箱界面中央是装备预览立绘，不作为游戏场景人物标注；不把旁边武器图标标成人体。该图需你确认是否仍有可见场景人物漏框。",
+      "source_time_seconds": 6.1,
+      "requested_second": 6,
+      "source_frame": 180,
+      "source_video_hash": "f56a6964e40f07d99198be3ae3abdaee909ef044d06febe7fbfcc30c93c5e906",
+      "user_review_number": 6,
+      "source_game_crop": [
+        85,
+        0,
+        876,
+        448
+      ],
+      "user_review_note": "",
+      "reviewer": "user_review_sheet",
+      "confirmation_record_sha256": "baa61c098e124db90e3c1baa2123070895900f88a71120c9d82d7bed6c9d7c0c",
+      "identity_evidence_before_user_confirmation": "背包/补给箱界面中央是装备预览立绘，不作为游戏场景人物标注；不把旁边武器图标标成人体。该图需你确认是否仍有可见场景人物漏框。",
+      "source_project_name": "PUBG队友录像-14张待确认"
+    },
+    {
+      "image": "team-video-000390.jpg",
+      "group": "video-f56a6964e40f07d99198be3ae3abdaee909ef044d06febe7fbfcc30c93c5e906",
+      "reviewed": true,
+      "boxes": [],
+      "roles": [],
+      "roles_reviewed": true,
+      "user_confirmed": true,
+      "user_review_status": "confirmed",
+      "assistant_reviewed": true,
+      "identity_evidence": "全屏地图界面；队伍编号、地图图标与标点均不是可见人体，不据此推测人物范围。",
+      "source_time_seconds": 13.1,
+      "requested_second": 13,
+      "source_frame": 390,
+      "source_video_hash": "f56a6964e40f07d99198be3ae3abdaee909ef044d06febe7fbfcc30c93c5e906",
+      "user_review_number": 7,
+      "source_game_crop": [
+        85,
+        0,
+        876,
+        448
+      ],
+      "user_review_note": "",
+      "reviewer": "user_review_sheet",
+      "confirmation_record_sha256": "baa61c098e124db90e3c1baa2123070895900f88a71120c9d82d7bed6c9d7c0c",
+      "identity_evidence_before_user_confirmation": "全屏地图界面；队伍编号、地图图标与标点均不是可见人体，不据此推测人物范围。",
+      "source_project_name": "PUBG队友录像-14张待确认"
+    },
+    {
+      "image": "team-video-001648.jpg",
+      "group": "video-f56a6964e40f07d99198be3ae3abdaee909ef044d06febe7fbfcc30c93c5e906",
+      "reviewed": true,
+      "boxes": [],
+      "roles": [],
+      "roles_reviewed": true,
+      "user_confirmed": true,
+      "user_review_status": "confirmed",
+      "assistant_reviewed": true,
+      "identity_evidence": "第一人称画面只见自身武器与孤立手臂，按规则排除；本帧未提出远处人物框，请核对是否有漏框。",
+      "source_time_seconds": 55.1,
+      "requested_second": 55,
+      "source_frame": 1648,
+      "source_video_hash": "f56a6964e40f07d99198be3ae3abdaee909ef044d06febe7fbfcc30c93c5e906",
+      "user_review_number": 8,
+      "source_game_crop": [
+        85,
+        0,
+        876,
+        448
+      ],
+      "user_review_note": "",
+      "reviewer": "user_review_sheet",
+      "confirmation_record_sha256": "baa61c098e124db90e3c1baa2123070895900f88a71120c9d82d7bed6c9d7c0c",
+      "identity_evidence_before_user_confirmation": "第一人称画面只见自身武器与孤立手臂，按规则排除；本帧未提出远处人物框，请核对是否有漏框。",
+      "source_project_name": "PUBG队友录像-14张待确认"
+    },
+    {
+      "image": "team-video-002008.jpg",
+      "group": "video-f56a6964e40f07d99198be3ae3abdaee909ef044d06febe7fbfcc30c93c5e906",
+      "reviewed": true,
+      "boxes": [
+        [
+          394,
+          224,
+          403,
+          237
+        ]
+      ],
+      "roles": [
+        "opponent"
+      ],
+      "roles_reviewed": true,
+      "user_confirmed": true,
+      "user_review_status": "confirmed",
+      "assistant_reviewed": true,
+      "identity_evidence": "开镜后草地上极小的人体轮廓，66.6–69.4秒上下文中有移动及同一目标交战。可排除自身；未见对应的队标加昵称，按你对本素材的约定判断为对手候选。身体仅约9×13像素，范围尤其需复核；不把准星或后续蓝色命中特效纳入身体。",
+      "source_time_seconds": 67.1,
+      "requested_second": 67,
+      "source_frame": 2008,
+      "source_video_hash": "f56a6964e40f07d99198be3ae3abdaee909ef044d06febe7fbfcc30c93c5e906",
+      "user_review_number": 9,
+      "source_game_crop": [
+        85,
+        0,
+        876,
+        448
+      ],
+      "user_review_note": "",
+      "reviewer": "user_review_sheet",
+      "confirmation_record_sha256": "baa61c098e124db90e3c1baa2123070895900f88a71120c9d82d7bed6c9d7c0c",
+      "identity_evidence_before_user_confirmation": "开镜后草地上极小的人体轮廓，66.6–69.4秒上下文中有移动及同一目标交战。可排除自身；未见对应的队标加昵称，按你对本素材的约定判断为对手候选。身体仅约9×13像素，范围尤其需复核；不把准星或后续蓝色命中特效纳入身体。",
+      "source_project_name": "PUBG队友录像-14张待确认"
+    },
+    {
+      "image": "team-video-003506.jpg",
+      "group": "video-f56a6964e40f07d99198be3ae3abdaee909ef044d06febe7fbfcc30c93c5e906",
+      "reviewed": true,
+      "boxes": [
+        [
+          393,
+          222,
+          404,
+          239
+        ]
+      ],
+      "roles": [
+        "opponent"
+      ],
+      "roles_reviewed": true,
+      "user_confirmed": true,
+      "user_review_status": "confirmed",
+      "assistant_reviewed": true,
+      "identity_evidence": "开镜后远处移动人形，117–121秒前后可核对位置变化；可排除自身，未见对应队标加昵称，建议为对手。人物很小，准星与身体重叠，需重点确认框的范围。",
+      "source_time_seconds": 117.033,
+      "requested_second": 117.0,
+      "source_frame": 3506,
+      "source_video_hash": "f56a6964e40f07d99198be3ae3abdaee909ef044d06febe7fbfcc30c93c5e906",
+      "user_review_number": 10,
+      "source_game_crop": [
+        85,
+        0,
+        876,
+        448
+      ],
+      "user_review_note": "",
+      "reviewer": "user_review_sheet",
+      "confirmation_record_sha256": "baa61c098e124db90e3c1baa2123070895900f88a71120c9d82d7bed6c9d7c0c",
+      "identity_evidence_before_user_confirmation": "开镜后远处移动人形，117–121秒前后可核对位置变化；可排除自身，未见对应队标加昵称，建议为对手。人物很小，准星与身体重叠，需重点确认框的范围。",
+      "source_project_name": "PUBG队友录像-14张待确认"
+    },
+    {
+      "image": "team-video-003542.jpg",
+      "group": "video-f56a6964e40f07d99198be3ae3abdaee909ef044d06febe7fbfcc30c93c5e906",
+      "reviewed": true,
+      "boxes": [],
+      "roles": [],
+      "roles_reviewed": true,
+      "user_confirmed": true,
+      "user_review_status": "confirmed",
+      "assistant_reviewed": true,
+      "identity_evidence": "开镜时树干挡住观察方向；不延续上一帧人物框去推测树后身体。本帧建议无可见人体，确认前请检查树干右侧边缘是否仍有露出的身体。",
+      "source_time_seconds": 118.233,
+      "requested_second": 118.2,
+      "source_frame": 3542,
+      "source_video_hash": "f56a6964e40f07d99198be3ae3abdaee909ef044d06febe7fbfcc30c93c5e906",
+      "user_review_number": 11,
+      "source_game_crop": [
+        85,
+        0,
+        876,
+        448
+      ],
+      "user_review_note": "",
+      "reviewer": "user_review_sheet",
+      "confirmation_record_sha256": "baa61c098e124db90e3c1baa2123070895900f88a71120c9d82d7bed6c9d7c0c",
+      "identity_evidence_before_user_confirmation": "开镜时树干挡住观察方向；不延续上一帧人物框去推测树后身体。本帧建议无可见人体，确认前请检查树干右侧边缘是否仍有露出的身体。",
+      "source_project_name": "PUBG队友录像-14张待确认"
+    },
+    {
+      "image": "team-video-003889.jpg",
+      "group": "video-f56a6964e40f07d99198be3ae3abdaee909ef044d06febe7fbfcc30c93c5e906",
+      "reviewed": true,
+      "boxes": [
+        [
+          391,
+          216,
+          403,
+          236
+        ]
+      ],
+      "roles": [
+        "opponent"
+      ],
+      "roles_reviewed": true,
+      "user_confirmed": true,
+      "user_review_status": "confirmed",
+      "assistant_reviewed": true,
+      "identity_evidence": "人工确认：没有队标+昵称，确认为对手",
+      "source_time_seconds": 129.8,
+      "requested_second": 129.8,
+      "source_frame": 3889,
+      "source_video_hash": "f56a6964e40f07d99198be3ae3abdaee909ef044d06febe7fbfcc30c93c5e906",
+      "user_review_number": 12,
+      "source_game_crop": [
+        85,
+        0,
+        876,
+        448
+      ],
+      "user_review_note": "人工确认：没有队标+昵称，确认为对手",
+      "reviewer": "user_review_sheet",
+      "confirmation_record_sha256": "baa61c098e124db90e3c1baa2123070895900f88a71120c9d82d7bed6c9d7c0c",
+      "identity_evidence_before_user_confirmation": "远景疑似人物部分被树枝、树干遮挡，129–131秒可见交战但单帧身体边界和对应身份证据偏弱，保留unknown；需你先确认这里是否确实是可见人体，再确认身份和范围。不能把树枝或命中特效当人体。",
+      "source_project_name": "PUBG队友录像-14张待确认"
+    },
+    {
+      "image": "team-video-004081.jpg",
+      "group": "video-f56a6964e40f07d99198be3ae3abdaee909ef044d06febe7fbfcc30c93c5e906",
+      "reviewed": true,
+      "boxes": [
+        [
+          392,
+          224,
+          403,
+          237
+        ]
+      ],
+      "roles": [
+        "opponent"
+      ],
+      "roles_reviewed": true,
+      "user_confirmed": true,
+      "user_review_status": "confirmed",
+      "assistant_reviewed": true,
+      "identity_evidence": "开镜远处蓝圈边缘可见小型人形，133–137秒可核对连续移动与交战；可排除自身，未见对应的队标加昵称，按素材约定建议为对手。只标可见的人形，不框树木、蓝圈特效；如已死亡或框范围有误，请标需修正。",
+      "source_time_seconds": 136.2,
+      "requested_second": 136.2,
+      "source_frame": 4081,
+      "source_video_hash": "f56a6964e40f07d99198be3ae3abdaee909ef044d06febe7fbfcc30c93c5e906",
+      "user_review_number": 13,
+      "source_game_crop": [
+        85,
+        0,
+        876,
+        448
+      ],
+      "user_review_note": "",
+      "reviewer": "user_review_sheet",
+      "confirmation_record_sha256": "baa61c098e124db90e3c1baa2123070895900f88a71120c9d82d7bed6c9d7c0c",
+      "identity_evidence_before_user_confirmation": "开镜远处蓝圈边缘可见小型人形，133–137秒可核对连续移动与交战；可排除自身，未见对应的队标加昵称，按素材约定建议为对手。只标可见的人形，不框树木、蓝圈特效；如已死亡或框范围有误，请标需修正。",
+      "source_project_name": "PUBG队友录像-14张待确认"
+    },
+    {
+      "image": "team-video-004225.jpg",
+      "group": "video-f56a6964e40f07d99198be3ae3abdaee909ef044d06febe7fbfcc30c93c5e906",
+      "reviewed": true,
+      "boxes": [
+        [
+          263,
+          252,
+          426,
+          448
+        ]
+      ],
+      "roles": [
+        "self"
+      ],
+      "roles_reviewed": true,
+      "user_confirmed": true,
+      "user_review_status": "confirmed",
+      "assistant_reviewed": true,
+      "identity_evidence": "退出瞄准镜恢复第三人称后，人物与连续跟随镜头对应为自身，说明切换视角不能把自身误作对手；外伸武器不单独标注。",
+      "source_time_seconds": 141.0,
+      "requested_second": 141,
+      "source_frame": 4225,
+      "source_video_hash": "f56a6964e40f07d99198be3ae3abdaee909ef044d06febe7fbfcc30c93c5e906",
+      "user_review_number": 14,
+      "source_game_crop": [
+        85,
+        0,
+        876,
+        448
+      ],
+      "user_review_note": "",
+      "reviewer": "user_review_sheet",
+      "confirmation_record_sha256": "baa61c098e124db90e3c1baa2123070895900f88a71120c9d82d7bed6c9d7c0c",
+      "identity_evidence_before_user_confirmation": "退出瞄准镜恢复第三人称后，人物与连续跟随镜头对应为自身，说明切换视角不能把自身误作对手；外伸武器不单独标注。",
+      "source_project_name": "PUBG队友录像-14张待确认"
+    }
+  ]
+}

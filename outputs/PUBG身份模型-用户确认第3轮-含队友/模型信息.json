@@ -1,0 +1,57 @@
+{
+  "status": "experimental_not_windows_or_teammate_accepted",
+  "user_confirmed_images": 52,
+  "train_images": 38,
+  "validation_images": 14,
+  "role_instances": {
+    "self": 29,
+    "opponent": 21,
+    "teammate": 6
+  },
+  "teammate_training_instances": 6,
+  "teammate_validation_instances": 0,
+  "negative_images": 10,
+  "ignored_dead_instances": 1,
+  "epochs": 100,
+  "input_size": 960,
+  "training_device": "mps",
+  "roles": {
+    "0": "self",
+    "1": "opponent",
+    "2": "teammate",
+    "3": "unknown"
+  },
+  "initial_model": "PUBG身份模型-用户确认第2轮/best.pt",
+  "validation_unchanged_from_round_2": true,
+  "onnx_validation": {
+    "confidence": 0.5,
+    "matching_iou": 0.5,
+    "images": 14,
+    "opponent_truth": 8,
+    "opponent_predictions": 0,
+    "matched_opponents": 0,
+    "opponent_precision": null,
+    "opponent_recall": 0.0,
+    "opponent_over_self": 0
+  },
+  "previous_round_onnx_validation": {
+    "confidence": 0.5,
+    "matching_iou": 0.5,
+    "images": 14,
+    "opponent_truth": 8,
+    "opponent_predictions": 0,
+    "matched_opponents": 0,
+    "opponent_precision": null,
+    "opponent_recall": 0.0,
+    "opponent_over_self": 0
+  },
+  "held_out_120": {
+    "opponent_truth": 1,
+    "matched_opponents": 0,
+    "participated_in_training": false
+  },
+  "sha256": {
+    "best.pt": "ad51aa6185ab20abbd831e6cc79391aa19507b3f95f9584f223f0087b3699e39",
+    "best.onnx": "8b9172b053818b5fd9d74f39f52202bc6574a9bf589b7d24e58e0e317da1e656"
+  }
+}

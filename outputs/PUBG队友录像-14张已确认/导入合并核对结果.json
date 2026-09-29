@@ -1,0 +1,66 @@
+{
+  "imported_images": 14,
+  "confirmed_images": 14,
+  "needs_correction": 0,
+  "pending": 0,
+  "corrections": [
+    {
+      "number": 3,
+      "before": [
+        "self",
+        "teammate",
+        "unknown"
+      ],
+      "after": [
+        "self",
+        "teammate",
+        "teammate"
+      ],
+      "note": ""
+    },
+    {
+      "number": 12,
+      "before": [
+        "unknown"
+      ],
+      "after": [
+        "opponent"
+      ],
+      "note": "人工确认：没有队标+昵称，确认为对手"
+    }
+  ],
+  "new_role_instances": {
+    "self": 6,
+    "teammate": 6,
+    "opponent": 4
+  },
+  "new_negative_images": 4,
+  "combined_images": 52,
+  "combined_role_instances": {
+    "self": 29,
+    "opponent": 21,
+    "teammate": 6
+  },
+  "combined_negative_images": 10,
+  "ignored_dead_instances": 1,
+  "train_images": 38,
+  "val_images": 14,
+  "val_source_unchanged": true,
+  "training_teammate_instances": 6,
+  "validation_teammate_instances": 0,
+  "confirmation_sha256": "baa61c098e124db90e3c1baa2123070895900f88a71120c9d82d7bed6c9d7c0c",
+  "model_updated": true,
+  "model_directory": "PUBG身份模型-用户确认第3轮-含队友",
+  "training_epochs": 100,
+  "onnx_validation": {
+    "confidence": 0.5,
+    "matching_iou": 0.5,
+    "images": 14,
+    "opponent_truth": 8,
+    "opponent_predictions": 0,
+    "matched_opponents": 0,
+    "opponent_precision": null,
+    "opponent_recall": 0.0,
+    "opponent_over_self": 0
+  }
+}

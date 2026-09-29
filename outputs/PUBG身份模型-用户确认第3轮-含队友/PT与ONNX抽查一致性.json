@@ -1,0 +1,100 @@
+{
+  "status": "passed",
+  "input": "square960",
+  "confidence": 0.1,
+  "samples": [
+    {
+      "number": "旧验证25",
+      "pt": [],
+      "onnx": []
+    },
+    {
+      "number": "旧验证26",
+      "pt": [],
+      "onnx": []
+    },
+    {
+      "number": "旧验证33",
+      "pt": [
+        {
+          "role": "opponent",
+          "confidence": 0.11157314479351044
+        }
+      ],
+      "onnx": [
+        {
+          "role": "opponent",
+          "confidence": 0.11157292127609253
+        }
+      ]
+    },
+    {
+      "number": "队友训练3",
+      "pt": [
+        {
+          "role": "self",
+          "confidence": 0.9909640550613403
+        },
+        {
+          "role": "teammate",
+          "confidence": 0.8697019219398499
+        },
+        {
+          "role": "teammate",
+          "confidence": 0.15172040462493896
+        }
+      ],
+      "onnx": [
+        {
+          "role": "self",
+          "confidence": 0.9909640550613403
+        },
+        {
+          "role": "teammate",
+          "confidence": 0.8697028160095215
+        },
+        {
+          "role": "teammate",
+          "confidence": 0.1517200767993927
+        }
+      ]
+    },
+    {
+      "number": "队友训练12",
+      "pt": [
+        {
+          "role": "opponent",
+          "confidence": 0.7182653546333313
+        },
+        {
+          "role": "opponent",
+          "confidence": 0.13570788502693176
+        },
+        {
+          "role": "opponent",
+          "confidence": 0.13286150991916656
+        }
+      ],
+      "onnx": [
+        {
+          "role": "opponent",
+          "confidence": 0.7182648777961731
+        },
+        {
+          "role": "opponent",
+          "confidence": 0.135707825422287
+        },
+        {
+          "role": "opponent",
+          "confidence": 0.13286066055297852
+        }
+      ]
+    }
+  ],
+  "nms_iou": 0.55,
+  "class_agnostic_nms": true,
+  "max_detections": 128,
+  "validation_images": 3,
+  "training_images": 2,
+  "scope": "export_consistency_only_not_accuracy_acceptance"
+}

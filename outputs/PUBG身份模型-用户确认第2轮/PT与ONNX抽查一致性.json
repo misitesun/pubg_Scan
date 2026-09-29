@@ -1,0 +1,42 @@
+{
+  "status": "passed",
+  "input": "square960",
+  "confidence": 0.1,
+  "samples": [
+    {
+      "number": 25,
+      "pt": [],
+      "onnx": []
+    },
+    {
+      "number": 26,
+      "pt": [
+        {
+          "role": "self",
+          "confidence": 0.6115668416023254
+        }
+      ],
+      "onnx": [
+        {
+          "role": "self",
+          "confidence": 0.6115648150444031
+        }
+      ]
+    },
+    {
+      "number": 33,
+      "pt": [
+        {
+          "role": "self",
+          "confidence": 0.8976279497146606
+        }
+      ],
+      "onnx": [
+        {
+          "role": "self",
+          "confidence": 0.8976279497146606
+        }
+      ]
+    }
+  ]
+}

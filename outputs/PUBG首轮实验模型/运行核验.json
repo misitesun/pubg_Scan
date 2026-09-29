@@ -1,0 +1,13 @@
+{
+  "real_video_worker_frames": 24,
+  "worker_stopped": true,
+  "failures": [],
+  "frame_size": [
+    2368,
+    1440
+  ],
+  "model_input_size": 960,
+  "confidence": 0.2,
+  "platform": "macOS / CPU ONNX inference; GPU training verified separately",
+  "windows_tested": false
+}
